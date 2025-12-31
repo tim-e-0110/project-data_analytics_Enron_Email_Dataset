@@ -1,8 +1,6 @@
 # 🕵️‍♂️ Digital Forensics Lab: Enron Email Dataset Analysis
 ### A Reproducible "Air-Gapped" Pipeline for Corporate Fraud Detection
 
-![Dashboard Preview](dashboard_visuals/00_treemap_navigation.png)
-
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Container-Docker-blue?logo=docker)
@@ -129,7 +127,7 @@ The analysis isolated three phases of systemic fraud, its cover-up, and the corr
     
 ## 📊 Visualizations: The Forensic Dashboard
 
-The interactive Tableau dashboard serves as the **final presentation layer**, telling the story of the investigation and providing a highly concentrated overview of the findings.
+The interactive [Tableau](https://public.tableau.com/app/profile/tim.e.7470/viz/shared/9DKPC3ZYH) dashboard serves as the **final presentation layer**, telling the story of the investigation and providing a highly concentrated overview of the findings.
 
 ### 1. The Control Panel: The Forensic Funnel Treemap
 The dashboard's entry point visualizes the **massive reduction of data** from the initial ~500k emails. Each colored block represents a distinct category, with its size proportional to the volume of emails within it. The user can click on each block to filter the other dashboard components.
@@ -233,4 +231,4 @@ While this project operates as a "Proof of Concept", a production-grade deployme
 
 **Project Author:** Tim Ermantraut
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tim-ermantraut-0b3a08149)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-ermantraut-0b3a08149)
