@@ -1,0 +1,38 @@
+services:
+  db:
+    image: postgres:18
+    container_name: forensic_db
+    env_file:
+      - .env
+    volumes:
+      - ./pgdata:/var/lib/postgresql
+      - ./db_init:/docker-entrypoint-initdb.d
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+    networks:
+      - forensic-net
+  
+  lab:
+    image: jupyter/scipy-notebook:latest
+    container_name: forensic_lab
+    environment:
+      - DATABASE_URL=postgresql://${POSTGRES_USER}:${POSTGRES_PASSWORD}@db:5432/${POSTGRES_DB}
+      - JUPYTER_TOKEN=${JUPYTER_TOKEN}
+      - JUPYTER_ENABLE_LAB=yes
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/work
+      - ./data:/home/jovyan/data 
+    depends_on:
+      - db
+    networks:
+      - forensic-net
+    restart: unless-stopped
+
+volumes:
+  pgdata:
+
+networks:
+  forensic-net:

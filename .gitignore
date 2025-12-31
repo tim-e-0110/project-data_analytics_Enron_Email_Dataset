@@ -210,7 +210,8 @@ __marimo__/
 # Meine Custom Rules (WICHTIG!)
 *.csv
 *.zip
-data/
+data/enron_mails.csv
 pgdata/
 postgres_data/
 .env
+!notebooks/analysis_results/intersection_dossiers_for_llm/LLM_top_10_quotes.csv
