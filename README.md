@@ -155,6 +155,18 @@ This view isolates the highest-probability evidence, confirming the initial susp
 
 ---
 
+## 📄 Data Source
+
+This project utilizes the **Enron Email Dataset**, which was originally collected and prepared by the CALO Project (A Cognitive Assistant that Learns and Organizes) at SRI International.
+
+*   **Original Source:** Carnegie Mellon University
+*   **Version Used:** A parsed CSV version of the dataset, containing approximately 500,000 emails, was obtained from Kaggle.
+*   **Link:** [Kaggle: The Enron Email Dataset Parsed](https://www.kaggle.com/datasets/acsariyildiz/the-enron-email-dataset-parsed)
+
+The `enron_mails.csv` file is not included in this repository due to its size (~1.3 GB).
+
+---
+
 ## 📂 Repository Structure
 
 The project is organized into functional directories to separate code, configuration, and results.
@@ -182,13 +194,13 @@ To run this analysis pipeline locally, follow these steps.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/tim-e-0110/project-data_analytics_Enron_Email_Dataset.git
+    project-data_analytics_Enron_Email_Dataset
     ```
 
 2.  **Download the Dataset (IMPORTANT):**
-    This repository does not include the ~1.7 GB Enron dataset.
-    *   Download the `enron_mails.csv` file from a source like Kaggle: [Link to Enron Email Dataset](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset)
+    This repository does not include the ~1.3 GB Enron dataset.
+    *   Download the `enron_mails.csv` file from a source like Kaggle: [Link to The Enron Email Dataset Parsed](https://www.kaggle.com/datasets/acsariyildiz/the-enron-email-dataset-parsed)
     *   Place the downloaded file into the `data/` folder.
 
 3.  **Configure Environment Variables:**
