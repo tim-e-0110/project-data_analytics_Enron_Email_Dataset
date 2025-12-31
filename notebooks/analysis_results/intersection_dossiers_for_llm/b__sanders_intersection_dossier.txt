@@ -1,0 +1,1383 @@
+FORENSIC DOSSIER (INTERSECTION) FOR: b..sanders@enron.com
+PERIOD: 2001-10-01 to 2001-11-30
+CRITERIA: Sent during 'dead zone' AND contains risk keywords.
+
+================================================================================
+EVIDENCE ID (Message-ID): <3487043.1075858690050.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-06-17 00:07:56+00:00
+From: b..sanders@enron.com
+To: elizabeth.sager@enron.com, t..hodge@enron.com
+Subject: FW: Forward Contract Termination Notices
+--------------------------------------------------------------------------------
+
+
+EES wants to terminate energy contracts(futures cintracts) with two bankrupt entities. Can you let Bob Williams know if you have any comments/suggestions to his letter?
+ -----Original Message-----
+From: 	Williams, Robert C.  
+Sent:	Thursday, June 14, 2001 4:32 PM
+To:	Frazier, Lamar; Dotson, Marcus
+Cc:	Sanders, Richard B.; Sharp, Vicki; 'lengels@brobeck.com'; 'jwhite@brobeck.com'; 'lacyr@sullcrom.com'; Smith, Mike
+Subject:	Forward Contract Termination Notices
+
+Pending Mark Haedicke's okay, here are my suggested termination notices to Unisil and Tri-Valley Growers:
+
+     UNISIL:
+
+                [Date}
+
+                [Jason to provide attorney name]
+
+ 
+
+                 Re:  Power Sales Agreement between UniSil Corporation and Enron Energy Marketing Corp., 
+                         successor by merger to PG&E Energy Services Corp.("EEMC"), originally entered into
+                         between EEMC and UniSil Corp. as of December 5, 1997, and subsequently assigned 
+                         to UniSil Acquisition Corp. (the "Agreement")
+
+                  Dear ___________:
+
+                  Pursuant to Section 3.3.2 of the Agreeement and Section 556 of the Bankruptcy Code, EEMC hereby terminates 
+                  the Agreement, effective immediately.
+
+
+                  Very truly yours,  
+
+
+                   Marcus?
+
+
+TRI VALLEY GROWERS:
+
+
+
+                    [Date]
+
+
+                    [Marcus--who is Tri Valley Growers' bankruptcy counsel?]
+
+                    
+                    Re:  Retail Power Sales Contract between Tri Valley Growers and Enron Energy Marketing Corp., successor 
+                           by merger to PG&E Energy Services Corp. ("EEMC"), entered into as of August 28, 1998 (the "Contract")
+
+                    [Same as UniSil except Contract not Agreement]
+
+                      
+
+                  
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <20707637.1075858690073.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-06-17 00:08:41+00:00
+From: b..sanders@enron.com
+To: c..williams@enron.com
+Subject: RE: Forward Contract Termination Notices
+--------------------------------------------------------------------------------
+
+I sent this to Hodge and Sager for their comments.
+
+ -----Original Message-----
+From: 	Williams, Robert C.  
+Sent:	Thursday, June 14, 2001 4:32 PM
+To:	Frazier, Lamar; Dotson, Marcus
+Cc:	Sanders, Richard B.; Sharp, Vicki; 'lengels@brobeck.com'; 'jwhite@brobeck.com'; 'lacyr@sullcrom.com'; Smith, Mike
+Subject:	Forward Contract Termination Notices
+
+Pending Mark Haedicke's okay, here are my suggested termination notices to Unisil and Tri-Valley Growers:
+
+     UNISIL:
+
+                [Date}
+
+                [Jason to provide attorney name]
+
+ 
+
+                 Re:  Power Sales Agreement between UniSil Corporation and Enron Energy Marketing Corp., 
+                         successor by merger to PG&E Energy Services Corp.("EEMC"), originally entered into
+                         between EEMC and UniSil Corp. as of December 5, 1997, and subsequently assigned 
+                         to UniSil Acquisition Corp. (the "Agreement")
+
+                  Dear ___________:
+
+                  Pursuant to Section 3.3.2 of the Agreeement and Section 556 of the Bankruptcy Code, EEMC hereby terminates 
+                  the Agreement, effective immediately.
+
+
+                  Very truly yours,  
+
+
+                   Marcus?
+
+
+TRI VALLEY GROWERS:
+
+
+
+                    [Date]
+
+
+                    [Marcus--who is Tri Valley Growers' bankruptcy counsel?]
+
+                    
+                    Re:  Retail Power Sales Contract between Tri Valley Growers and Enron Energy Marketing Corp., successor 
+                           by merger to PG&E Energy Services Corp. ("EEMC"), entered into as of August 28, 1998 (the "Contract")
+
+                    [Same as UniSil except Contract not Agreement]
+
+                      
+
+                  
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <20581030.1075858690138.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-06-17 00:15:54+00:00
+From: b..sanders@enron.com
+To: eileen.kisluk@enron.com
+Subject: FW: Gleason Power, LLC II
+--------------------------------------------------------------------------------
+
+
+
+ -----Original Message-----
+From: 	Zisman, Stuart  
+Sent:	Wednesday, June 13, 2001 3:35 PM
+To:	Sanders, Richard B.
+Subject:	FW: Gleason Power, LLC II
+
+Chris Boehler is the lawyer at A&K who handled the IDB Lease (the one that I gave you a copy of the other day).  Bill Neese is the lawyer for the IDB who worked across the table from Chris.  You might want to get Bill's number from Chris Boehler (Chris' direct lines is 713-220-4421) and give him a call.  I am sure that Bill is worried about who is covering his legal fees.  If memory serves me, the Lease calls for the IDB to be fully indemnified by the lessee (Gleason Power I, L.L.C.).  Please call if you need any further information.
+
+Stuart
+
+
+ -----Original Message-----
+From: 	Carnahan, Kathleen  
+Sent:	Wednesday, June 13, 2001 3:24 PM
+To:	Zisman, Stuart
+Subject:	FW: Gleason Power, LLC II
+
+FYI
+
+ -----Original Message-----
+From: 	"Boehler, Chris" <chrisboehler@akllp.com <mailto:chrisboehler@akllp.com>>@ENRON [mailto:IMCEANOTES-+22Boehler+2C+20Chris+22+20+3Cchrisboehler+40akllp+2Ecom+3E+40ENRON@ENRON.com] <mailto:[mailto:IMCEANOTES-+22Boehler+2C+20Chris+22+20+3Cchrisboehler+40akllp+2Ecom+3E+40ENRON@ENRON.com]> 
+Sent:	Wednesday, June 13, 2001 3:20 PM
+To:	Carnahan, Kathleen
+Subject:	FW: Gleason Power, LLC II
+
+
+-----Original Message-----
+From: Bill [mailto:bneese@cddn.com] <mailto:[mailto:bneese@cddn.com]>
+Sent: Wednesday, June 13, 2001 8:23 AM
+To: Boehler, Chris
+Subject: Gleason Power, LLC II
+
+
+Chris,
+
+As you know, we have all been sued over the alleged vibrations at the
+above plant by the Chamberlins.  Who will be handling this for Enron?  I
+will contact Allegahny so we can coordinate the defense.
+
+Please review and call me at your earliest convenience.
+
+Bill
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <30821340.1075858690229.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-06-17 00:30:02+00:00
+From: b..sanders@enron.com
+To: tracy.ngo@enron.com, tim.belden@enron.com
+Subject: FW: Methodology for Allocating Missed SCE and PGE Payments
+--------------------------------------------------------------------------------
+
+Tracy-- can you look at this and give me a call-35587. I dont understand what it means to us.
+
+ -----Original Message-----
+From: 	"Howard J. Weg" <hweg@pgwlaw.com>@ENRON [mailto:IMCEANOTES-+22Howard+20J+2E+20Weg+22+20+3Chweg+40pgwlaw+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Thursday, June 14, 2001 10:22 PM
+To:	'Alan Yudkowsky for Sempra'; 'Bob Nelson for Enron'; 'Brian Holman for Mirant'; 'Carl Eklund for Enron'; 'Dan Whitley for Enron'; 'David Burns for Reliant'; 'David Facey for Powerex'; 'David Gill for DWP'; 'Douglas Anderson for Salton Sea Power'; 'Howard Weg for Powerex'; 'James Crossen for APX'; 'James Huemoeller for Enron'; 'John Klauberg for Enron'; 'Kjehl Johansen for DWP'; 'Michael Lubic for Reliant'; 'Pat Mar for Avista'; 'Peter Gurfein for Salton Sea Power'; 'Rich Stevens for Avista'; 'Richard Beitler for Sempra'; 'Richard Diamond for DWP'; Sanders, Richard B.; 'Robert Berry for APX'; 'Zack Starbird for Mirant'
+Subject:	Methodology for Allocating Missed SCE and PGE Payments
+
+As promised, here is my outline of a proposed methodology for allocating the
+losses arising from the payments not made to CalPX by SCE and PGE:
+
+1) All participants should be returned to the position they were in before
+CalPX issued invoices based on the 90 day charge back provisions in the
+tariff.  This will implement the rescission of the 90 day charge back
+methodology ordered by FERC.
+
+2) The losses arising from payments not made by a particular buyer for power
+purchased during a particular period will be shared pro rata among the
+sellers that sold electricity during that period based on the amounts the
+sellers are owed for that particular period.
+
+3) The CalPX will not apply any charge back or default allocation to
+payments and losses applicable to the real time market for which the CalPX
+acts as Scheduling Coordinator.  Instead, CalPX will collect the payments,
+if any, and pass them on to the ISO, subject to whatever administrative
+charges CalPX is authorized to deduct by the CalPX or ISO tariffs.  Only the
+ISO tariff will apply to allocate the losses from payments not made for
+power sold and purchased on the real time market.
+
+4) Any payments presently held or hereafter collected and expressly
+designated for a particular period and buyer will be applied to the period
+and buyer for which such payments are designated.  Any payments presently
+held or hereafter collected that are not designated for a particular period
+will be applied to the oldest missed payments by the buyer that subsequently
+made the payment or on account of which the payment was subsequently
+collected.
+
+As I have maintained, this methodolgy may not be perfect for everyone, but,
+assuming that it works, it has the appeal of being both simple and
+principled.  The CalPX has indicated that it will provide us with feedback
+on our approach, but will not formally endorse any particular methodology
+because of its concern that it must remain neutral and not appear to support
+any group of participants against any other group of participants.
+
+As I have also maintained, until a simple and principled methodology is
+adopted, it will be difficult to make any progress with the return of the
+letters of credit and the distribution of the funds in the custodial and
+escrow accounts.
+
+I believe we should agree upon a workable methodology and then file a motion
+with the bankruptcy court on notice to all participants to have the CalPX
+authorized and directed to adopt and implement the methodology.  The
+participants can then take the order to Judge Moreno to release the letters
+of credit and escrowed funds and to FERC to have it formally amend the
+tariffs to incorporate the methodology.
+
+Please review the methodology outlined above with your clients so that we
+can discuss it in detail during our next conference call.
+
+Thanks.
+
+*CONFIDENTIALITY NOTICE* The information contained in this e-mail message is
+intended only for the personal and confidential use of the recipient(s)
+named above. This message may be an attorney-client communication and as
+such is privileged and confidential. If the reader of this message is not
+the intended recipient, you are hereby notified that you have received this
+document in error and that any review, dissemination, distribution, or
+copying of this message is strictly prohibited. If you have received this
+communication in error, please notify the sender immediately via e-mail, and
+delete the original message.
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <13556034.1075858690416.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-06-17 00:42:42+00:00
+From: b..sanders@enron.com
+To: jklauber@llgm.com
+Subject: RE: El Paso FERC Case
+--------------------------------------------------------------------------------
+
+A belated thanks for sending this.
+
+ -----Original Message-----
+From: 	JOHN KLAUBERG  [mailto:JKLAUBER@LLGM.COM] 
+Sent:	Tuesday, June 05, 2001 1:21 PM
+To:	Mark.E.Haedicke
+Cc:	Richard.B.Sanders; Robert.C.Williams; vsharp
+Subject:	El Paso FERC Case
+
+PRIVILEGED AND CONFIDENTIAL: SUBJECT TO ATTORNEY CLIENT AND OTHER PRIVILEGES
+
+Mark:
+
+I assume that you and Richard are very familiar with the day-to-day developments in the heavily publicized FERC case involving the investigation by FERC of El Paso's sale of pipeline capacity into the CA market to its merchant arm last year that CA officials have partly blamed for the spike in gas and power prices.  As you know, this is the case where the highest executives of El Paso recently were called to testify at FERC.
+
+An article in this morning's New York Times (which begins on page 1), in discussing El Paso's significant earnings generated by the El Paso merchant arm from the pipeline capacity purchase, says that the parties with which El Paso hedged its position also made sizeable profits.  The article notes that about half of El Paso's trades were with Enron "according to people present at the briefings El Paso officials have given to California officials."  While this probably is not surprising in light of our size and breadth in the market, it nonetheless is made to sound somewhat sinister, and my sense is that it is just another potential barb for the CA officials to throw at us.  Since the article quotes a response from Mark Palmer (in which he suggests that Enron, in turn, likely would have resold the capacity and would not have realized the benefit of the rising market), I assumed that you were aware of it, but I thought I would err on the side of putting an extra e-mail in your in-box.
+
+John
+
+John Klauberg
+LeBoeuf, Lamb, Greene & MacRae, L.L.P.
+212 424-8125
+john.klauberg@llgm.com
+
+
+==============================================================================
+This e-mail, including attachments, contains information that is confidential and may be protected by the attorney/client or other privileges.  This e-mail, including attachments, constitutes non-public information intended to be conveyed only to the designated recipient(s).  If you are not an intended recipient, please delete this e-mail, including attachments, and notify me.  The unauthorized use, dissemination, distribution or reproduction of this e-mail, including attachments, is prohibited and may be unlawful.
+
+==============================================================================
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <1676566.1075858690438.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-06-17 00:44:00+00:00
+From: b..sanders@enron.com
+To: nissan'.'limor@enron.com, andrew.edison@enron.com
+Subject: RE: Question re: Email retention policy
+--------------------------------------------------------------------------------
+
+Andy Edison will get back to you on this.
+
+ -----Original Message-----
+From: 	Limor Nissan  
+Sent:	Tuesday, June 05, 2001 2:20 PM
+To:	Richard B Sanders
+Cc:	Michael Cilento
+Subject:	RE: Question re: Email retention policy
+
+Thanks Richard,
+
+The reason I asked was because our IT people in Houston have told us that we cannot transfer emails that we need beyond the retention period to word documents.  That seemed a bit strange, but they were quite emphatic.   I have clarified the rule with our IT head.
+
+Thanks a lot, and take care,
+
+Limor
+
+Enron Global Markets
+520 Madison Avenue
+New York, NY 10022
+Tel: 212.715.5283
+Fax: 212.715.5608
+E-Mail: Limor.Nissan@Enron.com
+
+ -----Original Message-----
+From: 	Sanders, Richard  
+Sent:	Tuesday, June 05, 2001 7:15 AM
+To:	Nissan, Limor
+Subject:	Re: Question re: Email retention policy
+
+Sorry for the late reply. You are correct about  the policy. 
+
+
+
+
+
+	Limor Nissan/ENRON@enronXgate 05/29/2001 01:01 PM	   To: Richard B Sanders/HOU/ECT@ECT  cc:   Subject: Question re: Email retention policy	
+
+
+
+Hi Richard,
+
+Someone made an inquiry to me regarding the policy.  
+
+It is my understanding that if email is not deleted or copied into a word document in order to avoid deletion, then it will be (or should be) destroyed automatically after the expiration of the retention period.  We have been telling our people to only move information from Outlook to Word documents if they feel that they need to retain it for more than the appropriate retention period.
+
+Please let me know if this is consistent with the policy.
+
+Thanks, and hope all is well with you.
+
+Limor
+
+Enron Global Markets
+520 Madison Avenue
+New York, NY 10022
+Tel: 212.715.5283
+Fax: 212.715.5608
+E-Mail: Limor.Nissan@Enron.com
+
+
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <6355279.1075858692156.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-07-29 15:58:40+00:00
+From: b..sanders@enron.com
+To: karen.denne@enron.com
+Subject: FW: Profile on Judge Robertson
+--------------------------------------------------------------------------------
+
+
+
+ -----Original Message-----
+From: 	"Chen, Jane " <JChen@brobeck.com>@ENRON [mailto:IMCEANOTES-+22Chen+2C+20Jane+20+22+20+3CJChen+40brobeck+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Friday, July 27, 2001 4:21 PM
+To:	apickens@gibbs-bruns.com; breasoner@gibbs-bruns.com; dcastro@pkns.com; djn@pkns.com; jalexander@gibbs-bruns.com; jfrizzell@gibbs-bruns.com; Meringolo, Peter; mlk@pkns.com; Molland, Michael; Smith, Martin; Sanders, Richard B.; Williams, Robert C.; sbishop@gibbs-bruns.com; Smith, Amanda
+Subject:	Profile on Judge Robertson
+
+FYI.
+
+Thank you.
+jane
+
+Jane Chen
+Brobeck, Phleger & Harrison, LLP
+Assistant to Gary Fergus & Kirstin Wolf
+SF ext. 2944
+SF rm. 2917c
+DD (415) 979-2944
+
+
+ Judge Robertson.sfsuperior.pdf
+ <<Judge Robertson.sfsuperior.pdf>>
+
+=======================================================
+This email message is for the sole use of the intended recipient(s) and may contain confidential and privileged information. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message.
+
+To reply to our email administrator directly, send an email to postmaster@brobeck.com
+BROBECK PHLEGER & HARRISON LLP
+http://www.brobeck.com
+
+
+
+ - Judge Robertson.sfsuperior.pdf 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <14043436.1075858693267.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-08-25 20:57:53+00:00
+From: b..sanders@enron.com
+To: gail.brownfeld@enron.com
+Subject: FW: potential witnesses
+--------------------------------------------------------------------------------
+
+
+
+ -----Original Message-----
+From: 	"Shilliday, Daniel B." <dshilliday@velaw.com>@ENRON [mailto:IMCEANOTES-+22Shilliday+2C+20Daniel+20B+2E+22+20+3Cdshilliday+40velaw+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Friday, August 24, 2001 11:38 AM
+To:	Sanders, Richard B.
+Cc:	Nunnally, Knox D.
+Subject:	potential witnesses
+
+Richard,
+here is the list of potential witnesses, with a brief description of their
+role in the story, as taken from the Grella deposition.  The boldfaced
+additions at the end were suggested in our meeting yesterday with Mr.
+Detmering.
+
+I'll wait to hear from you re: Jeff Bartlett's availability.
+
+Regards,
+Dan
+          ++++++CONFIDENTIALITY NOTICE+++++
+The information in this email may be confidential and/or privileged.  This
+email is intended to be reviewed by only the individual or organization
+named above.  If you are not the intended recipient or an authorized
+representative of the intended recipient, you are hereby notified that any
+review, dissemination or copying of this email and its attachments, if any,
+or the information contained herein is prohibited.  If you have received
+this email in error, please immediately notify the sender by return email
+and delete this email from your system.  Thank You
+ <<623575_1.WPD>>
+
+ - 623575_1.WPD 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <28000304.1075858693333.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-08-25 21:14:15+00:00
+From: b..sanders@enron.com
+To: michelle.blaine@enron.com
+Subject: RE: Transredes *
+--------------------------------------------------------------------------------
+
+Sounds Fine
+
+-----Original Message-----
+From: Blaine, Michelle 
+Sent: Friday, August 24, 2001 7:55 PM
+To: Novak, John; Haedicke, Mark E.; Walls Jr., Rob; Sanders, Richard B.
+Cc: Weidler, Peter E
+Subject: FW: Transredes *
+
+
+We should waive this.  I waived a similar conflict for Guido last year. He represents us in the Stamp Tax case in Argentina and frequently represents the Bolivian govt. We'd rather have someone we know is a good lawyer and objective than someone we don't know.   FYI, Guido wrote the Supreme Decree that enabled Transredes to get its deferred account back.
+ -----Original Message-----
+From: Guido Tawil [mailto:GT@bomchil.com.ar]
+Sent: Thursday, August 23, 2001 3:32 PM
+To: Blaine, Michelle
+Subject: Transredes *
+
+
+
+Dear Michelle, 
+
+The Superintendencia General del SIRESE (Bolivia) just send me the background of the Transredes case in which they are requesting my advise. 
+
+It is an administrative appeal before said agency of resolutions SSDH Nbr. 0257/2000 and 0014/2001 concerning the assesment of a fine of 710.000 bolivianos due to an oil spill and the rejection of the appeal filed before the Hidrocarbons Agency.  
+
+As mentioned in our conference call, I informed the Superintendencia General about my assistance to Enron in different matters and they expressed no concern about the independence of my advise nor potential conflicts of interest. Please be kind enough to confirm me that Enron acknowledges that no conflict of interest arises of my eventual assistance to the Superintendencia General cocerning this matter and, therefore, that it has no objection in order for me to provide such assistance.
+
+Best regards, 
+
+Guido Santiago Tawil 
+M. & M. Bomchil 
+Suipacha 268, piso 12 
+(C1008AAF) Buenos Aires 
+Argentina 
+Tel  (54 11) 4321 7500 
+Fax (54 11) 4321 7555 
+E-mail gt@bomchil.com.ar 
+www.bomchil.com.ar 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <201272.1075858693356.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-08-26 11:58:49+00:00
+From: b..sanders@enron.com
+To: e..haedicke@enron.com
+Subject: FW: AG v. Enron
+--------------------------------------------------------------------------------
+
+
+
+ -----Original Message-----
+From: 	"Michael Kirby" <mlk@pkns.com>@ENRON [mailto:IMCEANOTES-+22Michael+20Kirby+22+20+3Cmlk+40pkns+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Saturday, August 25, 2001 7:33 PM
+To:	Sanders, Richard B.; Williams, Robert C.
+Cc:	sbishop@gibbs-bruns.com
+Subject:	AG v. Enron
+
+I have revised and am emailing to you and Robin a copy of the revised Molland Declaration that I have sent back to Michael this afternoon wherein he explains what happened yesterday regarding the tentative ruling and asks for oral argument. When I spoke to Michael late this afternoon about the declaration I learned some additional information which is contrary to one of our assumptions, and suggests it will be harder to expect the court to go forward with argument on Monday. Through this afternoon(when I had discussed this separately with Richard and Robin today), we have been operating on the assumption that only telephonic notice to opposing counsel of the intent to argue was required to have oral argument in SFO court and that notice to the court itself was not required. If so, the court would have this one on its Monday calendar. I asked Michael again how the Court would know what matters would actually be on the oral argument calendar and was told today that the telephonic instructions from the court which accompany the tentative ruling tell you before listening to the recorded ruling  that apparently YOU HAVE TO PUSH A CERTAIN TELEPHONE NUMBER BUTTON AT THE END OF THE ORAL RULING IF THE MATTER IS TO REMAIN ON CALENDAR FOR ORAL ARGUMENT. That was not done by the person who first called and listened to the ruling for Michael. When someone called back and attempted to do so the response was "invalid" or something to that effect. Presumably that was because it was sometime after the 4:30 deadline. This would suggest that we are not even on the calendar (without a request for oral argument)as we had hoped. I still will be there to argue, or at least argue for a hearing date. I wanted Bob to know of this new info in case it affects his decision on coming out here. Call me on my cell 619-985-9792 any time if anyone has questions. I will be emailing the draft replies for Sacramento tomorrow.
+
+The information contained in this e-mail message and any accompanying documents is subject to the attorney-client privilege and/or the attorney work product rule and is confidential business information intended only for the use of the individual or entity named above.  The information herein may also be protected by the Electronic Communications Privacy Act, 18 U.S.C. ?? 2510-2521.  If the reader of this message is not the intended recipient or representative of the recipient, you are hereby notified that any dissemination of this communication is strictly prohibited.  If you have received this communication in error, please notify the Systems Administrator at admin@pkns.com and immediately delete this message from your system.
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <27341345.1075858693413.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-08-26 12:48:40+00:00
+From: b..sanders@enron.com
+To: e..haedicke@enron.com
+Subject: FW: Tentative Ruling on AG action
+--------------------------------------------------------------------------------
+
+
+
+ -----Original Message-----
+From: 	"Molland, Michael E." <MMolland@brobeck.com>@ENRON [mailto:IMCEANOTES-+22Molland+2C+20Michael+20E+2E+22+20+3CMMolland+40brobeck+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Friday, August 24, 2001 7:47 PM
+To:	Sanders, Richard B.; 'mlk@pkns.com'; 'sbishop@gibbs-bruns.com'
+Cc:	'mtuohey@velaw.com'; 'arguedas@caclaw.net'; Fergus, Gary S.; Williams, Robert C.; Brody, Janet J.
+Subject:	FW: Tentative Ruling on AG action
+
+
+
+> 	Here is a transcription of the tentative ruling:
+>
+> Granted subject to protective order that the specific documents
+> established to be confidential or otherwise subject to protection not be
+> disclosed outside the offices of the California Attorney General or the
+> Attorneys General of other states that agree to no further disclosure
+> without prior court order.
+>
+We did not learn of this tentative until after 4:30 today, although it was
+probably posted sometime earlier in the afternoon.  The local rule states
+that a party who wishes to argue the tentative shall notify opposing counsel
+before 4:30. We called their attorneys after 4:30, but before 5 PM. I
+reached Martin Goyette, counsel for the AG personally by phone shortly after
+five, and notified him of our intention to argue. He claimed the AG would
+not appear to argue given late notice. I have notified him by fax of our
+intention to argue.
+
+>
+>
+>
+
+
+=======================================================
+This email message is for the sole use of the intended recipient(s) and may contain confidential and privileged information. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message.
+
+To reply to our email administrator directly, send an email to postmaster@brobeck.com
+BROBECK PHLEGER & HARRISON LLP
+http://www.brobeck.com
+
+
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <31603537.1075858693435.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-08-26 12:50:36+00:00
+From: b..sanders@enron.com
+To: d..steffes@enron.com
+Subject: FW: Portland General PRIVILEGED AND CONFIDENTIAL
+--------------------------------------------------------------------------------
+
+
+Can you guys handle this in my absence
+ -----Original Message-----
+From: 	"Seabron Adamson" <seabron.adamson@frontiereconomics.com>@ENRON [mailto:IMCEANOTES-+22Seabron+20Adamson+22+20+3Cseabron+2Eadamson+40frontiereconomics+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Friday, August 24, 2001 6:38 PM
+To:	Sanders, Richard B.
+Subject:	FW: Portland General PRIVILEGED AND CONFIDENTIAL
+
+
+Dan:
+
+(cc Richard Sanders and Gary Fergus)
+
+I have a document by someone named Marty Howard, who I believe may be
+associated with Portland General. The document was sent to me by Richard
+Tabors. According to the email Howard used to work for McCullough.
+
+After a very brief read through, I think it tries to show that the
+statistical link between prices in CA and the PNW was WEAK in peak hours. I
+suppose they are trying to show that the "contagion" effect from California
+show not be an issue? I have some problems from an initial read with the
+econometric analysis, but I have not yet reviewed it fully.
+
+However, it also leaves open the very possibility that was discussed earlier
+on the call. If there is a refund, and it is based on some notion of "PNW
+prices", it could be a very large one. I think we need to consider this
+issue quite carefully.
+
+Seabron
+
+
+This e-mail, and any attachments thereto, is intended only for use by the
+addressee(s) named herein and may contain legally privileged and/or
+confidential information.  If you are not the intended recipient of this
+e-mail, you are hereby notified that any dissemination, distribution or
+copying of this e-mail, and any attachments thereto, is strictly
+prohibited.
+If you have received this e-mail in error, please immediately notify me at
+(617) 354-0060 and permanently delete the original and any copy of any
+e-mail and any printout thereof.
+
+
+Seabron Adamson
+Frontier Economics Inc
+Two Brattle Square
+Cambridge, MA 02138 USA
+Ph:  (617) 354-0060
+Fax: (617) 354-0640
+seabron.adamson@frontier-economics.com
+
+www.frontier-economics.com
+
+
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <27551144.1075858693466.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-08-26 12:52:37+00:00
+From: b..sanders@enron.com
+To: gail.brownfeld@enron.com
+Subject: FW: Fred and Marilyn Promis vs. NEPCO, LSP, LSP-Kendall, NRG and
+ Granite Power Partners
+--------------------------------------------------------------------------------
+
+I am assuming that this is just an FYI. If so, dont respond back
+
+-----Original Message-----
+From: Truss, Stephanie 
+Sent: Friday, August 24, 2001 5:11 PM
+To: Lund, David; Tom.Whipple@nepco.com; Ranz, Michael
+Cc: Brownfeld, Gail; Vote, Robert; Sanders, Richard B.
+Subject: RE: Fred and Marilyn Promis vs. NEPCO, LSP, LSP-Kendall, NRG
+and Granite Power Partners 
+
+
+
+Since this is an insurance claim, I am leaving it to Bob to handle (per Jim Derrick's policy manual).  As to the last sentence of your e-mail...have you been talking to my mother? 
+-----Original Message-----
+From: Lund, David 
+Sent: Tuesday, August 21, 2001 6:13 PM
+To: Tom.Whipple@nepco.com; Ranz, Michael
+Cc: Brownfeld, Gail; Vote, Robert
+Subject: Fred and Marilyn Promis vs. NEPCO, LSP, LSP-Kendall, NRG and
+Granite Power Partners 
+
+
+ATTORNEY-CLIENT COMMUNICATION; PRIVILEGED AND CONFIDENTIAL
+
+Tom and Mike:
+
+As you may know, NEPCO and the project Owners are named in a personal injury
+lawsuit that was served on NEPCO earlier this month in Cook County,
+Illinois.  I tender the case by letter to Dick Corp for their defense and
+indemnity since it involved one their employees who broke his leg on the
+jobsite in Kendall, Illinois.  I cited paragraph 4 (b) and (d) of the JVA as
+my authority for shifting the risk to Dick, however was silent on Paragraph
+11 and 19 which actually says we should have purchased a GL policy for the
+JV to protect the JV and its partners.  As a cost saving measure agreed by
+the JV partners, no policy was purchase because each Dick and NEPCO would
+rely on the GL policy of their own (Dick's and Enron's) to protect
+themselves against third party claims. Paragraph 19 is an indemnity which
+states the JV partners share risk 50/50 without respect to who is at fault
+except for willful actions.  It also states the JV will indemnify the JV
+members, which only works if the JV had purchased a GL policy and in the
+absence of a GL policy then the intent would be that each party will utilize
+the others GL policy and share in the deductible cost.  Dick has responded
+in writing and said it will defend and indemnity NEPCO through its GL policy
+(Travelers) but says the JV partners must share in their $250,000
+deductible, or $125K per partner.  That hurts, but not as bad as if this
+were handled by Enron's policy which has a self insured deductible of $2
+Million.
+
+In the end, I agree to some extent with Dick's response for pure third party
+claims, but I have some trouble with the concept of claims coming from their
+own employees of which they would have immunity from suit under the workers
+compensation act.  Dick pays up to it's cap on liability under the WC act
+and then theoretically has 50% deductible liability under the GL policy for
+claims against the other JV partner.  Had this not been a JV relationship,
+we would have had Dick paying all of the defense and indemnity as a
+subcontractor.  The JVA is silent on this split in liability for claims by
+either parties' own employees, however, I look back to the paragraphs I
+cited to Roger Peters (Par. 4 (b) and (d)) and they say with respect to
+subcontracts, of which Dick and NEPCO were expected to perform their
+respective scopes of work under (see 4 (b)), each such subcontract shall
+oblige the subcontractor to indemnify the JV and each of the parties from
+and against all expense, liability and claims resulting from its
+construction/engineering work.  This language would say that Dick should
+take 100% of the claim.  
+
+The bottom line, the JVA is vague in respect to claims by its own employees.
+If this were the only claim, I would say lets share the loss because the
+benefit and exposure flows both ways.  In reality though, most if not all of
+the claims will come from construction workers (Dick employees).  So sharing
+the loss is not reasonable especially since the Travelers lawyer has said
+the common practice of Union hired employees in the Chicago area is to bring
+numerous accident injury claims against owners and GCs as the project winds
+down.  He said to expect more claims like this because he sees this on other
+Dick jobs.
+
+Gail and Bob,  This message is more for informational purposes since the
+claim has been accepted by Dick Corp although Travelers did not afford me
+much selection of counsel since they went ahead and assigned it to a Chicago
+lawyer, Chic Marasa.  His number and address is:  (312) 345-7229, Law
+offices of Chic Marasa, One East Wacker Drive, Suite 3450, Chicago, Illinois
+60601.  We may want to have one of you monitor the outside lawyer hired by
+Travelers and make sure our interests are served.  I sent the complaint and
+my tender letter to Richard Sanders on August 10th.  Gail,  I spoke to Chic
+and he sounds nice, single and available if you are interested. Juuust
+kidding.
+
+David H. Lund, Jr.
+Assistant General Counsel
+National Energy Production Corporation
+11831 North Creek Parkway N.
+Bothell, WA 98011
+425-415-3138
+Fax: 425-415-3032
+David.Lund@nepco.com or davidlu@nepco.com
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <13683010.1075858693511.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-08-26 12:59:02+00:00
+From: b..sanders@enron.com
+To: bonnie.white@enron.com
+Subject: FW: Casey, John A. v. Nepco
+--------------------------------------------------------------------------------
+
+If you have not already done so,can you get back to Jim. Thanks
+
+ -----Original Message-----
+From: 	Derrick Jr., James  
+Sent:	Monday, August 20, 2001 4:44 PM
+To:	Sanders, Richard B.; White, Bonnie
+Subject:	FW: Casey, John A. v. Nepco
+
+Please let me have your recommendation re the possible extention of coverage.  Thank you. Jim
+
+ -----Original Message-----
+From: 	Cole, Rob  
+Sent:	Monday, August 20, 2001 8:44 AM
+To:	Derrick Jr., James
+Cc:	Bouillion, James L.; Cole, Rob; Mathis, Ken; Studdert, James P.; Kendall, Earline
+Subject:	Casey, John A. v. Nepco
+
+Mr. Derrick, I am directing this email to your attention at the request of Mr. Jim Bouillion for consideration of extending coverage to Nepco, pursuant to the EMPLOYMENT PRACTICES LIABILITY ENDORSEMENT on our Directors & Officers policy.
+
+We have reviewed the Petition wherein a former iron worker of Nepco alleges damages as a result of being terminated, in violation of Title 85 O.S. d 5.  The Plaintiff sustained an on the job injury on April 6, 2001, when he was struck by a crane.  He received workers compensation benefits.  He allegedly re-injured his back on June 15, 2001.  The Plaintiff alleges that "several hours after notifying his employer of re-injuring his back, Plaintiff was summarily terminated by Defendant."  The "Plaintiff alleges that a significant part of Defendant's decision to terminate him was because of his injury and because he exercised his rights under the Workers Compensation Act."  The Petition goes on to state that the Defendant's actions "were done in reckless disregard for the rights of the Plaintiff and/or were wanton and motivated by oppression, fraud and/or malice" and thus includes a count for punitive damages.  Suit is filed in Tulsa County, State of Oklahoma, with an Answer date of before September 4, 2001.
+
+Our preliminary review of the Petition, absent any independent investigation or knowledge with respect to the allegations and the value placed on same, suggests there might be coverage for this loss under the Directors & Officers policy.  The definition of "WRONGFUL EMPLOYMENT PRACTICE" includes "the actual or constructive termination of a career opportunity, or employment discipline or evaluation in a manner which violates any local, state, or federal law, whether existing by statute or common law, or which breaches any implied contract to continue employment"...It is doubtful this matter would exceed the $1M policy deductible.
+
+Please advise if you would like for us to extent coverage to Nepco.  According to the information provided, the matter has been assigned to Bonnie White of the Litigation Unit and is being overseen by Richard Sanders of ENA.
+
+Thanks,
+
+Rob Cole, Manager-Claims
+ENA - Global Risk Markets
+P.O. Box 1188 (77251-1188)
+1400 Smith Street, EB2136F
+Houston, Texas  77002
+713-853-7739 (telephone)
+713-646-2341 (facsimile)
+Rob.Cole@Enron.com (email)
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <291043.1075858693655.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-08-26 13:17:03+00:00
+From: b..sanders@enron.com
+To: pmeringolo@brobeck.com, mlk@pkns.com
+Subject: RE: Repository Lease
+--------------------------------------------------------------------------------
+
+If possible, don't sign a lease until I get back. If you need a immediate answer, let me know.
+
+ -----Original Message-----
+From: 	"Meringolo, Peter" <PMeringolo@brobeck.com>@ENRON [mailto:IMCEANOTES-+22Meringolo+2C+20Peter+22+20+3CPMeringolo+40brobeck+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Friday, August 24, 2001 7:46 PM
+To:	Michael L. Kirby (E-mail)
+Cc:	Sanders, Richard B.; Molland, Michael E.; Fergus, Gary S.
+Subject:	Repository Lease
+
+Mike,
+
+I understand that you will be signing the lease for the repository.
+Attached please find (1) the lease, (2) attachment A to the lease, and (3)
+an outstanding invoice.
+
+Please note, I spoke with Tracy Wilson today at the Capitol Mall Executive
+Center.  She is expecting early next week the signed lease as well as the
+rent payment reflected in the invoice.
+
+Please let me know if you have any questions.
+
+Peter Meringolo
+
+ <<leaseinvoice.pdf>>  <<leaseagtexha.pdf>>  <<leaseagt.pdf>>
+
+=======================================================
+This email message is for the sole use of the intended recipient(s) and may contain confidential and privileged information. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message.
+
+To reply to our email administrator directly, send an email to postmaster@brobeck.com
+BROBECK PHLEGER & HARRISON LLP
+http://www.brobeck.com
+
+
+
+ - leaseinvoice.pdf << File: leaseinvoice.pdf >> 
+ - leaseagtexha.pdf << File: leaseagtexha.pdf >> 
+ - leaseagt.pdf << File: leaseagt.pdf >> 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <19125945.1075858685006.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-09-16 21:48:25+00:00
+From: b..sanders@enron.com
+To: r..guinn@enron.com
+Subject: RE: Set up a meeting w/ me, you, Julian and IT re looking at
+ Portland e-mails
+--------------------------------------------------------------------------------
+
+Don't know--maybe both
+
+-----Original Message-----
+From: Guinn, Linda R. 
+Sent: Sunday, September 16, 2001 4:44 PM
+To: Sanders, Richard B.
+Subject: RE: Set up a meeting w/ me, you, Julian and IT re looking at Portland e-mails
+
+
+by IT, do you mean Gabriella (more security based) or the actual folks who will be downloading this for us?  
+
+-----Original Message----- 
+From: Sanders, Richard B. 
+Sent: Sun 9/16/2001 4:29 PM 
+To: Guinn, Linda R. 
+Cc: 
+Subject: Task Request: Set up a meeting w/ me, you, Julian and IT re looking at Portland e-mails
+
+
+
+Subject:        Set up a meeting w/ me, you, Julian and IT re looking at Portland e-mails 
+
+Status: Not Started 
+Percent Complete:       0% 
+
+Total Work:     0 hours 
+Actual Work:    0 hours 
+
+Owner:  Guinn, Linda R. 
+
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <24595844.1075862210026.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-14 21:41:37+00:00
+From: b..sanders@enron.com
+To: michelle.cash@enron.com
+Subject: FW: York Paper v. Enron/Holzer
+--------------------------------------------------------------------------------
+
+FYI
+-----Original Message-----
+From: Brownfeld, Gail 
+Sent: Friday, October 12, 2001 10:01 AM
+To: Sanders, Richard B.
+Subject: FW: York Paper v. Enron/Holzer
+
+
+FYI
+
+-----Original Message----- 
+From: Clothier, Robert 
+Sent: Thu 10/11/2001 10:51 AM 
+To: Brownfeld, Gail 
+Cc: Klein, Samuel; Dubas, Jennifer 
+Subject: York Paper v. Enron/Holzer
+
+
+
+Privileged and Confidential
+
+Gail,
+
+I had a productive conversation with Keith Dutill, the Stradley lawyer who
+I've known for decades and who is now representing York Paper.
+
+The short of it is that he said he is very interested in trying to resolve
+this before the litigation machinery cranks up.  He will discuss it with his
+client and get back to me.  He said that York has "strong feelings" and then
+agreed with me that Enron feels the same way.  He felt that York has a "good
+business sense" and would be interested in reaching a compromise without
+spending a lot of dollars in legal fees.
+
+Dutill does not know why two separate summons were filed in Delaware County.
+It's his understanding that the claims against Enron are largely the same as
+the claims against Holzer (with perhaps one or two exceptions that still
+relate to Holzer's employment with Enron).  He is working on a complaint
+that will cover both summons, and expects to file it in the next several
+weeks, certainly before the mediation conference on November 19th.  I said
+that we should try to start our own discussions before that mediation
+conference so that the mediator could focus on any areas of disagreement.
+
+Here's how Dutill described York's claims:  Holzer worked for York Paper.
+When Holzer left York, York wanted to prevent Holzer from working for Enron.
+Holzer wanted to work for Enron, and so did Enron, so there was some
+"agreement" between Holzer/Enron and York.  In that "agreement", Holzer and
+Enron made "promises" about the way they "would do business" with York.  It
+appears that the promise was that Holzer and Enron would not bypass York
+Paper and deal directly with York Paper's customers.  Yet, according to
+Dutill, that is what Holzer and Enron did -- cut out York Paper as the
+middle man.  This has resulted in a "fair erosion of business" for York
+Paper.  It is "not just a matter of subsequent solicitation."  It also
+involves "interference with existing contracts" between York and its
+customers. 
+
+So, it would seem that York's claims might include breach of contract,
+interference with contractual relations and, perhaps,
+misrepresentation/fraud.  Interestingly, he did not mention any of the West
+Coast and Garden State Paper contracts we have been looking into.
+
+If you have any thoughts, please let me know.  I will keep you informed of
+any further developments.
+
+Bob
+
+Dechert
+215-994-2714
+215-994-2222 (fax)
+robert.clothier@dechert.com
+
+> The information contained in this e-mail message and any attachment(s)
+> hereto is legally privileged and confidential information intended only
+> for the use of the individual or entity named above. If you are not the
+> intended recipient, you are hereby notified that you should not further
+> disseminate, distribute or copy this message. In addition, if you have
+> received this message in error, please notify us immediately by collect
+> telephone call (215-994-2714). Thank you.
+>
+>
+
+
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <11878546.1075858686855.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-14 21:50:58+00:00
+From: b..sanders@enron.com
+To: diane.goode@enron.com
+Subject: FW: trades by cp - confidential
+--------------------------------------------------------------------------------
+
+Please send to all the VE attys-----Original Message-----
+From: McCullough, Travis 
+Sent: Wednesday, October 10, 2001 10:21 AM
+To: Sanders, Richard B.
+Subject: FW: trades by cp - confidential
+
+
+Richard - in case you need it for the venue transfer, this is the list that EOL prepared that demonstrates the lack of trading activity with entities based in the Eastern District --
+ 
+
+Travis C. McCullough 
+Enron North America Corp. 
+1400 Smith Street EB 824 
+Houston, Texas 77002 
+Phone:  (713) 853-1575 
+Fax:      (713) 646-8860 
+
+-----Original Message-----
+From: Webb, Jay 
+Sent: Wednesday, October 03, 2001 3:26 PM
+To: McCullough, Travis
+Subject: trades by cp - confidential
+
+
+please see enclosed spreadsheet
+
+-----Original Message-----
+From: McCullough, Travis 
+Sent: Wednesday, October 03, 2001 1:41 PM
+To: Taylor, Mark E (Legal); Webb, Jay; Forster, David
+Cc: Sanders, Richard B.
+Subject: EnronOnline Patent Infringement litigation
+
+
+Vinson & Elkins is collecting information regarding EnronOnline in connection with preparing Enron's defense of the patent infringement suit filed against Enron last week.  Peter Mims, an intellectual property lawyer with Vinson & Elkins, would like to speak with each of you regarding certain aspects of EnronOnline.  I suggested that he contact each of you directly to set up a time to meet with you.
+ 
+Any assistance that you can provide to Peter would be greatly appreciated.  Please let me know if you have any questions or 
+ 
+Travis C. McCullough 
+Enron North America Corp. 
+1400 Smith Street EB 824 
+Houston, Texas 77002 
+Phone:  (713) 853-1575 
+Fax:      (713) 646-8860 
+ 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <27422240.1075858686878.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-14 21:53:23+00:00
+From: b..sanders@enron.com
+To: gail.brownfeld@enron.com
+Subject: RE: service of process
+--------------------------------------------------------------------------------
+
+Talk to Dave. I think he reports to Shelia so you should talk to her as well.
+
+-----Original Message-----
+From: Brownfeld, Gail 
+Sent: Friday, October 12, 2001 1:40 PM
+To: Sanders, Richard B.
+Subject: FW: service of process
+
+
+
+	This is another example of litigation involving NEPCO about which 'the litigation group' (me) knew nothing.  I assume David obtained Derrick's approval for counsel (he usually does) but I still wonder what other matters are hiding under the rug that we don't know about.
+	Last time we discussed this you mentioned that you wanted us involved in their litigation the same way we would be involved if they were here. Accordingly, should I talk to Dave and find out what else is out there?  This deal is very similar to the last situation wherein NEPCO had filed an arbitration and we didn't find out about it until well after the thing was under way. 
+-----Original Message-----
+From: Lund, David 
+Sent: Thursday, October 11, 2001 12:28 PM
+To: Brownfeld, Gail; Lund, David
+Cc: Sanders, Richard B.; JantzenS@McKinneyStringer.com
+Subject: RE: service of process
+
+
+Gail,  
+
+I think you are referring to a case between the Oklahoma Dept. of Health and
+NEPCO, and yes I have it.  Steve Jantzen of McKinney and Stringer in
+Oklahoma City was retained early on when the threat of litigation was
+evident.  There was actually an earlier case filed but improperly served on
+NEPCO so the court dismissed it.  This is a new case  and repeat of the old
+case which has now been properly served on NEPCO.  The case will be stayed
+pursuant to a Consent Decree that is being negotiated by NEPCO with the
+Dept. of Health concerning compliance with the correct ratio of apprentices
+to licensed electricians on the Jenks, OK jobsite.   In fact, this issue
+will be moot soon as the project is near completion and all matters of
+compliance will be non existent when the workforce is released later this
+month.
+
+On the other case for a $2800 collection matter, that is being handled by
+Bonnie White and set to be dismissed by the plaintiff on agreement by NEPCO
+to pay a compromised amount.  This case should never have happened expect
+for the fact that a forwarding address from a closed office in California
+never properly forwarded the claimant's invoices to NEPCO
+
+David H. Lund, Jr.
+Assistant General Counsel
+National Energy Production Corporation
+11831 North Creek Parkway N.
+Bothell, WA 98011
+425-415-3138
+Fax: 425-415-3032
+David.Lund@nepco.com or davidlu@nepco.com
+
+		-----Original Message-----
+		From:	Brownfeld, Gail [mailto:Gail.Brownfeld@ENRON.com]
+		Sent:	Wednesday, October 10, 2001 10:19 PM
+		To:	DavidLU@Nepco.com
+		Cc:	Sanders, Richard B.
+		Subject:	FW: service of process
+
+			Are you familiar with the U of Ok case? It came to
+me earlier
+		this week and I haven't been in the office to see it.  I'll
+have my
+		office fax you a copy in case you haven't seen it.  We can
+discuss it on
+		Friday afternoon.  Thanks. 
+
+		>  -----Original Message-----
+		> From: 	Sanders, Richard B.  
+		> Sent:	Wednesday, October 10, 2001 10:39 AM
+		> To:	Brownfeld, Gail
+		> Subject:	FW: service of process
+		> 
+		> Did you get this and is it being handled? Also-- what
+happened to that
+		> Nepco case for $2800?
+		> 
+		>  -----Original Message-----
+		> From: 	Stephens, Becky  
+		> Sent:	Thursday, October 04, 2001 2:57 PM
+		> To:	Sanders, Richard B.
+		> Cc:	Guinn, Linda R.; Vote, Robert; Robichaux, Lisa
+		> Subject:	service of process
+		> 
+		> The following original documents, received today, have
+been forwarded
+		> for your immediate attention:
+		> 
+		> State of Oklahoma ex rel. Oklahoma State Department of
+Health v.
+		> NEPCO, a Delaware Corporation; No. CJ 2001 05209, In the
+14th Judicial
+		> District Court, Tulsa County, Oklahoma.  SUMMONS and
+PETITION to CT
+		> Corp for National Energy Production Corporation by
+certified mail on
+		> 10/3/01.
+		> 
+		> PLEASE ADVISE IF NOT RECEIVED WITHIN 1 BUSINESS DAY.
+		> 
+		> Thank you !!
+		> 
+		> Becky A. Stephens
+		> Support Services Coordinator
+		> Enron Litigation Unit, EB4809
+		> 713/853-5025
+		> 713/853-6576 (fax)
+		> Becky.Stephens@enron.com
+		> 
+
+
+	
+**********************************************************************
+		This e-mail is the property of Enron Corp. and/or its
+relevant affiliate and may contain confidential and privileged material for
+the sole use of the intended recipient (s). Any review, use, distribution or
+disclosure by others is strictly prohibited. If you are not the intended
+recipient (or authorized to receive for the recipient), please contact the
+sender or reply to Enron Corp. at enron.messaging.administration@enron.com
+and delete all copies of the message. This e-mail (and any attachments
+hereto) are not intended to be an offer (or an acceptance) and do not create
+or evidence a binding and enforceable contract between Enron Corp. (or any
+of its affiliates) and the intended recipient or any other party, and may
+not be relied on by anyone as the basis of a contract by estoppel or
+otherwise. Thank you. 
+	
+**********************************************************************
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <6524420.1075858686969.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-14 22:07:11+00:00
+From: b..sanders@enron.com
+To: sheila.tweed@enron.com
+Subject: RE: Reliant
+--------------------------------------------------------------------------------
+
+Not unless you can cure laziness. I will call him this week.
+
+ -----Original Message-----
+From: 	Tweed, Sheila  
+Sent:	Tuesday, October 09, 2001 10:47 AM
+To:	Sanders, Richard B.
+Subject:	FW: Reliant
+
+Anything I can do to expedite this?
+
+ -----Original Message-----
+From: 	"Wendell, Harlan" <HWendell@mdbe.com <mailto:HWendell@mdbe.com>>@ENRON  
+Sent:	Friday, October 05, 2001 10:57 AM
+To:	Tweed, Sheila
+Cc:	Jones, Karen E.
+Subject:	Reliant
+
+
+E-MAIL NOTICE
+
+This e-mail message is for the sole use of the intended recipient(s) and
+may contain confidential and/or privileged information. Any review, use,
+disclosure or distribution by persons or entities other than the
+intended recipient(s) is prohibited. If you are not the intended
+recipient, please contact the sender by reply and destroy all copies of
+the original message. Thank you.
+
+To reply to our E-mail Administrator directly, send an email to
+Postmaster@mdbe.com <mailto:Postmaster@mdbe.com> or call (415) 393-2000 and delete this email.
+
+McCUTCHEN, DOYLE, BROWN & ENERSEN, LLP
+
+<http://www.mccutchen.com>
+
+
+
+
+
+Hi Sheila, 
+
+My partner Donn Pickett has been trying to get Richard Sanders to sign off on the attached conflicts letter concerning our representation of Reliant in the litigation in California in which Enron is also involved.  I understand the letter confirms prior conversations between Richard and Donn.  Karen suggested that, because you see Richard frequently, maybe we could enlist your help in getting the paperwork processed.  We would greatly appreciate that.
+
+I hope all is going well for you and your family.  Let me know if you have any questions. 
+
+        Harlan 
+ <<letter to Richard Sanders.doc>> 
+
+ - letter to Richard Sanders.doc << File: letter to Richard Sanders.doc >> 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <51093.1075858686991.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-14 22:08:03+00:00
+From: b..sanders@enron.com
+To: twanda.sweet@enron.com
+Subject: FW: Reliant
+--------------------------------------------------------------------------------
+
+Please set up a call w/ Donn Pickett Tues or Wed
+
+ -----Original Message-----
+From: 	Sanders, Richard B.  
+Sent:	Sunday, October 14, 2001 5:07 PM
+To:	Tweed, Sheila
+Subject:	RE: Reliant
+
+Not unless you can cure laziness. I will call him this week.
+
+ -----Original Message-----
+From: 	Tweed, Sheila  
+Sent:	Tuesday, October 09, 2001 10:47 AM
+To:	Sanders, Richard B.
+Subject:	FW: Reliant
+
+Anything I can do to expedite this?
+
+ -----Original Message-----
+From: 	"Wendell, Harlan" <HWendell@mdbe.com <mailto:HWendell@mdbe.com>>@ENRON  
+Sent:	Friday, October 05, 2001 10:57 AM
+To:	Tweed, Sheila
+Cc:	Jones, Karen E.
+Subject:	Reliant
+
+
+E-MAIL NOTICE
+
+This e-mail message is for the sole use of the intended recipient(s) and
+may contain confidential and/or privileged information. Any review, use,
+disclosure or distribution by persons or entities other than the
+intended recipient(s) is prohibited. If you are not the intended
+recipient, please contact the sender by reply and destroy all copies of
+the original message. Thank you.
+
+To reply to our E-mail Administrator directly, send an email to
+Postmaster@mdbe.com <mailto:Postmaster@mdbe.com> or call (415) 393-2000 and delete this email.
+
+McCUTCHEN, DOYLE, BROWN & ENERSEN, LLP
+
+<http://www.mccutchen.com>
+
+
+
+
+
+Hi Sheila, 
+
+My partner Donn Pickett has been trying to get Richard Sanders to sign off on the attached conflicts letter concerning our representation of Reliant in the litigation in California in which Enron is also involved.  I understand the letter confirms prior conversations between Richard and Donn.  Karen suggested that, because you see Richard frequently, maybe we could enlist your help in getting the paperwork processed.  We would greatly appreciate that.
+
+I hope all is going well for you and your family.  Let me know if you have any questions. 
+
+        Harlan 
+ <<letter to Richard Sanders.doc>> 
+
+ - letter to Richard Sanders.doc << File: letter to Richard Sanders.doc >> 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <19865028.1075858687015.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-14 22:14:09+00:00
+From: b..sanders@enron.com
+To: james.derrick@enron.com
+Subject: RE: Catching up...
+--------------------------------------------------------------------------------
+
+I talked to Mark and I don't think we have any interest.
+
+ -----Original Message-----
+From: 	Derrick Jr., James  
+Sent:	Thursday, September 20, 2001 5:45 PM
+To:	Fossum, Drew; Haedicke, Mark E.; Mintz, Jordan; Mordaunt, Kristina; Rogers, Rex; Sanders, Richard B.; Sharp, Vicki; Walls Jr., Rob; Williams, Robert C.
+Subject:	FW: Catching up...
+
+Please see the message below and let me know whether you would have an interest in visiting with Steve Newton with respect to his idea.  Jim
+
+ -----Original Message-----
+From: 	"Steve Newton" <snewton@ev1.net>@ENRON [mailto:IMCEANOTES-+22Steve+20Newton+22+20+3Csnewton+40ev1+2Enet+3E+40ENRON@ENRON.com] 
+Sent:	Thursday, September 20, 2001 4:47 PM
+To:	Derrick Jr., James
+Subject:	Catching up...
+
+
+Jim - 
+ 
+It has been several years since  we've visited, and there are a couple of areas I'd like to update with you  on.  I'm hopeful, after reading the following, that you will feel it  is worthwhile for us to get together again.
+ 
+First, my last litigation project at  Fulbright & Jaworski just came to a close very unexpectedly, due  to a third party stay order, and I am once again looking for new matters to work  on.  I have attached my updated resume for your reference, or to pass on to  others in your Law Department who might have needs for my type of skills on a  project basis.  At a current billing rate of $80 per hour, engaging me  (with a specialization in this field for over 11 years)  for basic document  production activity generally will produce a meaningful cost savings  vs. utilization of even the most junior, inexperienced associate in an  outside counsel firm for such tasks.  I think I've mentioned to you before  that I have particular expertise in dealing with productions of electronic  documents -- especially email in a variety of application formats.
+ 
+Second --and more importantly -- I  have reflected several years about what my ideal job would be, if  I were to go to work again on a permanent basis.  This week, I finally  took time to draft out a general job description of that job.  I have  called it, for now, a "Legal Information Counsel" position within a corporate  law department.  My draft job description is also attached.   
+ 
+I believe a strong case can be made  to justify such a position in many large, diverse corporations with multiple  lines of business.  In a nutshell, that justification is twofold:  (1)  avoidance of repeated re-inventions of the wheel across an organization, as it  relates to the expensive process of handling documents and data generated  by complex litigation and other corporate legal matters;  and (2) taking a  proactive leadership approach to legally significant information in a  corporation, vs. constantly being in a reactive mode as new fires break  out.  
+ 
+I urge you to review both my resume,  and the Legal Information Counsel description attached, and then let me come in  to visit with you about them.  I am particularly interested in your  reaction and comments to the Legal Information Counsel concept, over and above  whether such a position might be an appropriate addition to the Enron Corporate  Law Department.  
+ 
+I appreciate your time, Jim, and  look forward to having the opportunity to visit with you again.
+ 
+Steve
+281.597.8366 (home)
+281.728.4468  (cell)
+ - SNewtRes.doc << File: SNewtRes.doc >> 
+ - Legal Information Counsel.doc << File: Legal Information Counsel.doc >> 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <4940744.1075858687037.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-14 22:15:44+00:00
+From: b..sanders@enron.com
+To: andrew.edison@enron.com
+Subject: FW: Receivables deal
+--------------------------------------------------------------------------------
+
+Can you call Joel and find out what this is about?
+
+ -----Original Message-----
+From: 	Ephross, Joel  
+Sent:	Friday, October 12, 2001 10:56 AM
+To:	Proffitt, Tim; Herron, Chris
+Cc:	Eickenroht, Robert; Sanders, Richard B.
+Subject:	Receivables deal
+
+
+Attached is a draft of the letter to be sent to ASCC concerning the receivables deal. Tim/Chris, please note that it contemplates a new Monthly Settlement Report. After you have had a chance to review, lets discuss the timing, the dollar figure, and the discussion with the bank.
+
+
+
+
+
+ 
+
+

@@ -1,0 +1,1660 @@
+FORENSIC DOSSIER (INTERSECTION) FOR: louise.kitchen@enron.com
+PERIOD: 2001-10-01 to 2001-11-30
+CRITERIA: Sent during 'dead zone' AND contains risk keywords.
+
+================================================================================
+EVIDENCE ID (Message-ID): <1051959.1075860258555.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-01-07 11:44:00+00:00
+From: louise.kitchen@enron.com
+To: andrew.edison@enron.com
+Subject: Re: Mieco Inc. Dispute
+--------------------------------------------------------------------------------
+
+Please ensure Andy Zipper is kept up to speed on this as Andy is in charge of 
+EnronOnline.
+
+i will not be able to review this until my return on Jan 8th.
+
+Louise
+
+
+From: Andrew Edison@ENRON on 01/03/2001 08:06 AM
+To: Mark Taylor/HOU/ECT@ECT, Louise Kitchen/HOU/ECT@ECT
+cc:  
+
+Subject: Mieco Inc. Dispute
+
+Attached is a draft letter I have prepared to send to Mieco Inc.'s General 
+Counsel.  It responds to Mieco Inc.'s recent inquiries concerning 
+EnronOnline's policies and procedures when one party claims a trade has been 
+made in error.  I have intentionally made it as short and sweet as possible.  
+Let me know your thoughts.  I would like to get the letter out the door by 
+the end of the day, if possible.  Thanks.
+
+
+
+
+
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <27617612.1075853021907.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-09-27 03:05:53+00:00
+From: louise.kitchen@enron.com
+To: 'premier.rentals@enron.com, kristen@skihomerental.com
+Subject: RE: Beaver Creek Home Rental
+--------------------------------------------------------------------------------
+
+Thanks very much.
+
+Louise
+
+ -----Original Message-----
+From: 	"Premier Home Rentals, Inc." <kristen@skihomerental.com>@ENRON [mailto:IMCEANOTES-+22Premier+20Home+20Rentals+2C+20Inc+2E+22+20+3Ckristen+40skihomerental+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Wednesday, September 26, 2001 6:01 PM
+To:	Kitchen, Louise
+Subject:	Re: Beaver Creek Home Rental
+
+Louise-
+
+I have cancelled the extra night and have you set for Sat 2/9 - Sat 2/16.  I
+will fax a revised reservation.  We look forward to your arrival.
+
+
+Kristen Nye
+Premier Home Rentals, Inc.
+www.SkiHomeRental.com
+888-708-7179
+----- Original Message -----
+From: <Louise.Kitchen@enron.com>
+To: <kristen@skihomerental.com>
+Sent: Tuesday, September 25, 2001 7:42 PM
+Subject: RE: Beaver Creek Home Rental
+
+
+> Sorry to mess you around on this but we have now booked the flights and we
+> do not need the extra night - is it ok to cancel the extra night.  If
+> possible could you please send a new confirm when you have time.
+>
+> Thanks
+>
+> Louise
+>
+>     -----Original Message-----
+>    From:   "Rich and Kristen Nye" <kristen@skihomerental.com>@ENRON
+>
+[mailto:IMCEANOTES-+22Rich+20and+20Kristen+20Nye+22+20+3Ckristen+40skihomere
+ntal+2Ecom+3E+40ENRON@ENRON.com]
+>
+>
+>    Sent:   Thursday, September 13, 2001 10:40 AM
+>    To:     Kitchen, Louise
+>    Subject:  Re: Beaver Creek Home Rental
+>
+>    I will check on the extra night and let you know.  I am in receipt of
+>    your
+>    deposit check and am holding it pending closing of the property
+>    tomorrow.  I
+>    will send you a confirmation next week reflecting the payment and the
+>    extra
+>    night if it is available.
+>
+>
+>    Kristen Nye
+>    Premier Home Rentals, Inc.
+>    www.skihomerental.com
+>    888-708-7179
+>    ----- Original Message -----
+>    From: <Louise.Kitchen@enron.com>
+>    To: <kristen@skihomerental.com>
+>    Cc: <Tammie.Schoppe@enron.com>
+>    Sent: Thursday, September 13, 2001 8:58 AM
+>    Subject: RE: Beaver Creek Home Rental
+>
+>
+>    > I know we are not definitely booked but is there any possibility of
+>    booking
+>    > the accomodation for an additional night - so we depart on the 17th.
+>    >
+>    > Let me know.
+>    >
+>    > Thanks
+>    >
+>    > Louise
+>    >
+>    >     -----Original Message-----
+>    >    From:   "Rich and Kristen Nye" <kristen@skihomerental.com>@ENRON
+>    >
+>
+[mailto:IMCEANOTES-+22Rich+20and+20Kristen+20Nye+22+20+3Ckristen+40skihomere
+>    ntal+2Ecom+3E+40ENRON@ENRON.com]
+>    >
+>    >
+>    >    Sent:   Monday, August 27, 2001 10:56 AM
+>    >    To:     Kitchen, Louise
+>    >    Cc:     Schoppe, Tammie
+>    >    Subject:  Re: Beaver Creek Home Rental
+>    >
+>    >    Louise-
+>    >
+>    >    Thank you for your kind email.  I look forward to handling all the
+>    >    details
+>    >    of your personal trip in the same manner we organize your
+corporate
+>    >    outings.
+>    >
+>    >    With regard to deposit I'm sorry that we cannot process the
+>    American
+>    >    Express
+>    >    card for this particular home so I must ask that you send a check
+>    at
+>    >    your
+>    >    convenience.  The amount and address are on the reservation I
+faxed
+>    >    over.
+>    >    Please let me know if you did not receive that.  I will send you a
+>    >    confirmation once it has been received.
+>    >
+>    >    Again thank you for choosing Beaver Creek for your personal and
+>    business
+>    >    trips, we appreciate your patronage.
+>    >
+>    >    Kristen Nye
+>    >    Premier Home Rentals, Inc.
+>    >    www.skihomerental.com
+>    >    888-708-7179
+>    >    ----- Original Message -----
+>    >    From: "Kitchen, Louise" <Louise.Kitchen@enron.com>
+>    >    To: "Rich and Kristen Nye" <Kristen@skihomerental.com>
+>    >    Cc: "Schoppe, Tammie" <Tammie.Schoppe@enron.com>
+>    >    Sent: Monday, August 27, 2001 7:26 AM
+>    >    Subject: RE: Beaver Creek Home Rental
+>    >
+>    >
+>    >    > Good morning
+>    >    >
+>    >    > Thanks very much for the email - I was on vacation in Napa last
+>    week
+>    >    so
+>    >    > couldn't reply earlier.  Tammie (my assistant) can either give
+>    you my
+>    >    > Amex number over the phone or send you a cheque for the
+deposit -
+>    >    > whichever you prefer.  We are looking forward to the trip.
+>    >    >
+>    >    > Speak to you closer to the time and thank you both for making
+our
+>    >    > offsite in Beaver Creek last week particularly enjoyable and
+>    extremely
+>    >    > well organized.
+>    >    >
+>    >    > Louise
+>    >    >
+>    >    > >  -----Original Message-----
+>    >    > > From: "Rich and Kristen Nye" <Kristen@SkiHomeRental.com>@ENRON
+>    >    > >
+>    >
+>    [mailto:IMCEANOTES-+22Rich+20and+20Kristen+20Nye+22+20+3CKristen+40Ski
+>    >    > > HomeRental+2Ecom+3E+40ENRON@ENRON.com]
+>    >    > > Sent: Thursday, August 23, 2001 11:15 AM
+>    >    > > To: louise@enron.com
+>    >    > > Subject: Beaver Creek Home Rental
+>    >    > >
+>    >    > >
+>    >    > > Louise-
+>    >    > >
+>    >    > > I hope you enjoyed a safe and  pleasant journey home on
+Sunday.
+>    I'm
+>    >    > > sure your husband and son were happy  to see you.
+>    >    > >
+>    >    > > I have tentatively reserved  the property you viewed at 157
+>    Beaver
+>    >    > > Creek Drive for 2/9-2/16.  The new  owners will be closing on
+>    Sept
+>    >    14
+>    >    > > and feel confidant in taking deposits  immediately.  I am
+>    faxing
+>    >    your
+>    >    > > reservation paperwork showing a deposit due  of $2975 (25%).
+>    The
+>    >    > > remaining payment is due 60 days prior to  arrival.
+>    >    > >
+>    >    > > Please let me know if you have  any questions or concerns.
+>    >    Otherwise,
+>    >    > > I will look forward to confirming  your reservation once the
+>    deposit
+>    >    > > has been received.  Thank you again for  taking the time to
+>    visit
+>    >    last
+>    >    > > weekend.  We look forward to seeing you here  with your family
+>    in
+>    >    Feb.
+>    >    > >
+>    >    > > Kristen Nye
+>    >    > > Premier Home  Rentals, Inc.
+>    >    > > 888-708-7179www.SkiHomeRental.com << File:
+>    >    > > http://www.SkiHomeRental.com >>
+>    >    >
+>    >    >
+>    >    >
+>    **********************************************************************
+>    >    > This e-mail is the property of Enron Corp. and/or its relevant
+>    >    affiliate
+>    >    and may contain confidential and privileged material for the sole
+>    use
+>    of
+>    >    the
+>    >    intended recipient (s). Any review, use, distribution or
+disclosure
+>    by
+>    >    others is strictly prohibited. If you are not the intended
+>    recipient
+>    (or
+>    >    authorized to receive for the recipient), please contact the
+sender
+>    or
+>    >    reply
+>    >    to Enron Corp. at enron.messaging.administration@enron.com and
+>    delete
+>    >    all
+>    >    copies of the message. This e-mail (and any attachments hereto)
+are
+>    not
+>    >    intended to be an offer (or an acceptance) and do not create or
+>    evidence
+>    >    a
+>    >    binding and enforceable contract between Enron Corp. (or any of
+its
+>    >    affiliates) and the intended recipient or any other party, and may
+>    not
+>    >    be
+>    >    relied on by anyone as the basis of a contract by estoppel or
+>    otherwise.
+>    >    Thank you.
+>    >    >
+>    **********************************************************************
+>    >    >
+>    >    >
+>    >
+>    >
+>    >
+>    >
+>
+>
+>
+>
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <10471057.1075853021882.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-09-27 03:09:44+00:00
+From: louise.kitchen@enron.com
+To: m..presto@enron.com, mitch.robinson@enron.com, dana.davis@enron.com, 
+	john.llodra@enron.com, j..broderick@enron.com
+Subject: RE: Conn. Coal Plants
+--------------------------------------------------------------------------------
+
+Both John Llodra and Don Miller have had discussions with regard to pursuing these assets over the last week.  Essentially, these plants may be the first distress sales we see in the market place.
+ 
+John/Don - can you let everyone know how you plan to move forward. 
+
+-----Original Message-----
+From: Presto, Kevin M. 
+Sent: Wednesday, September 26, 2001 9:38 PM
+To: Miller, Don (Asset Mktg); Robinson, Mitch; Davis, Mark Dana; Llodra, John; Broderick, Paul J.
+Cc: Lavorato, John; Kitchen, Louise; Duran, W. David
+Subject: Conn. Coal Plants
+
+
+As most of you know, NRG's proposed purchase of two coal plants in Conneticut (UI's territory) was recently cancelled due to regulatory issues at FERC.   The purchase and sale transaction between Wisvest and NRG was originally entered into almost two years ago.   The proposed purchase price of $350 million for 1000 MW of coal was a "bargain price" at the time due to environmental risks that are specific to the state of CT.
+ 
+Over the past 2-3 years, the State of Conneticut has threatened to have these coal plants shut down due to pollution issues and Wisvest was concerned enough about this risk that they "puked" the plants to NRG for $350/kW in early 2000.   At a minimum, it is expected that $100-150/kW of SCR and/or scrubbers will be required at these facilities to appease the CT regulatory bodies.
+ 
+My strong view is that, as a practical matter, the plants cannot be shut down or the lights would go out in CT.   The area where the plants are located is quite possibly the most congested area in the entire Eastern Interconnect.   The load pocket is significantly short MW and transmission import capability is inadequate to serve the load in this area.   In a true "locational marginal price" environment, the prices would likely be similar to Zone J in New York   Currently, pricing in NEPOOL is generally socialized with congestion costs spread equally to all loads, regardless of who causes the congestion.   
+ 
+In the recently proposed "single NE RTO" model, it is about 80% certain that the PJM "locational marginal price" market model will be implemented sometime between mid-2003 and mid-2004.   At that point in time, consumers in the congested areas of NEPOOL (in-city Boston and CT) will be exposed to higher energy prices, while consumers in Maine, New Hampshire, and Rhode Island should see lower prices.
+ 
+Given the facts above, coupled with traditional asset companies too long to show good bids for incremental assets, I think EWS should pursue discussions with Wisvest immediately and attempt to buy these coal plants at what could be extremely favorable economics relative to our forward curve in NEPOOL and our bullish view for relative pricing at the asset "node".   
+ 
+If we could buy these plants for approx $250/kW with $150/kW of environmental upgrades, the resulting "all-in" (depr, fixed & variable O&M, fuel costs, NOx, SO2, capital reserve, interest) 7x24 plant cost would be approx. $34-36/Mwh.    This is lower than our energy only socialized NEPOOL curve.   Additional upside is derived from positive basis, ICAP, ancillary services, emissions allowances, and long term requirements sales to LSE's.
+ 
+Lavo and Louise - This could be the "Alberta PPA" for 2002.   Lots of "hair" but lots of upside.
+ 
+Any thoughts?
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <24066469.1075853021209.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-09-30 21:43:47+00:00
+From: louise.kitchen@enron.com
+To: dale@thompsonhanson.com
+Subject: RE: Kitchen 2137 Chilton Road
+--------------------------------------------------------------------------------
+
+We still have toadstools/mushrooms and holwa in need of new turf on the lawn.
+
+Any news?
+
+ -----Original Message-----
+From: 	"Dale Waltman" <dale@thompsonhanson.com>@ENRON [mailto:IMCEANOTES-+22Dale+20Waltman+22+20+3Cdale+40thompsonhanson+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Friday, September 14, 2001 7:29 AM
+To:	Kitchen, Louise
+Subject:	Re: Kitchen 2137 Chilton Road
+
+Mrs. Kitchen
+
+Just acknowledging receipt of your message. I will schedule all requested
+services and I will have the crew and spray techs check/treat and repair
+your lawn as requested.
+Thank you for your message.
+
+Dale Waltman
+----- Original Message -----
+From: Kitchen, Louise <Louise.Kitchen@enron.com>
+To: <bill@thompsonhanson.com>; <dale@thompsonhanson.com>
+Sent: Wednesday, September 12, 2001 10:17 PM
+Subject: Ref: Kitchen 2137 Chilton Road
+
+
+> Ref Kitchen
+> 2137 Chilton Road, 77019
+>
+> Bill,
+>
+> Please include the following on our property
+> * Mulch
+> * Freeze Protection
+> * Rye Seed Application
+>
+>
+> Dale,
+> Please also schedule the Seasonal Color change of our flowers.
+>
+> Also could you arrange for some work to be carried out on our lawn as
+> soon as possible:
+> * Repair lawn around area of tree supports.
+> * Treat lawn for fungi (we have lots of toadstools).
+>
+> Thank you in anticipation
+>
+> Louise Kitchen
+>
+>
+> **********************************************************************
+> This e-mail is the property of Enron Corp. and/or its relevant affiliate
+and may contain confidential and privileged material for the sole use of the
+intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or reply
+to Enron Corp. at enron.messaging.administration@enron.com and delete all
+copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you.
+> **********************************************************************
+>
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <19283204.1075853017382.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-13 16:58:58+00:00
+From: louise.kitchen@enron.com
+To: john.lavorato@enron.com
+Subject: RE:
+--------------------------------------------------------------------------------
+
+I didn't get a copy of Dave's email but a few comments and I attach a compromise ordering.  I added to your file schoolyard.
+ 
+Our differences are:
+Me - Don Miller, Joe Deffner,Chris Foster
+You - Zipper, Ermis, Aucoin
+ 
+I would put them all ahead of Bernie however I have no data points apart from p&l on nothing with Frank so I can't comment on him..  Not huge differences in order, apart from your slant on Canadians!  The main issue with yours is Calger behind Benson and Zufferli (and even maybe Dana), he's a future leader of this organisation.  Your ordering is very P&L based.
+ 
+Are we supposed to cover Wes or will Causey? 
+ 
+I added to your file schoolyard.
+ 
+Speak to you later.
+ 
+Louise
+Belden	
+Arnold	
+Presto	
+Shively	
+Sturm	
+Swerzbin	
+Calger	
+Davis, Dana	
+Benson	
+Milnthorp	
+Zufferli	
+Herndon	
+Motley	
+Davies	
+martin	
+grigsby	
+Tycholiz	
+Richter	
+Black	
+Luce	
+Allen	
+Devries	
+Wiggs	
+Duran	
+Storey	
+Arora	
+Zipper	
+Foster	
+Ermis or Miller	
+Gonzales	
+
+-----Original Message-----
+From: Lavorato, John 
+Sent: Saturday, October 13, 2001 9:56 AM
+To: Kitchen, Louise
+Subject: 
+
+
+I think we have 3 that are on my list and not on yours.  We have big differences in order.  I'm very concerned about this process.  I'll send you dave's email and you might understand why.
+ 
+Call me or resend me an email.
+ 
+john
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <5271040.1075853017337.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-13 23:13:36+00:00
+From: louise.kitchen@enron.com
+To: john.lavorato@enron.com
+Subject: RE: PRIVATE
+--------------------------------------------------------------------------------
+
+With Calger leading the likes of Parquet etc they can make $100mm plus - without him no chance.  I think it's sort of indirect p&l.
+ 
+I think we are close enough I'd put our top 20 above any group - our final ten are really strong too.  Harry, Orlando and Zipper as the last people on our list really does show we have some major talent.
+ 
+Let's not stick to 30 - let's do 33 putting Miller,Deffner, Foster, Zipper, Ermis and Aucoin in.  Daliney's note shows he is giving a lot to people we have in our second half of the list.
+ 
+ 
+ 
+ 
+
+-----Original Message-----
+From: Lavorato, John 
+Sent: Saturday, October 13, 2001 6:01 PM
+To: Kitchen, Louise
+Subject: RE:
+
+
+my order is actually future p\l based.  if it wasn't in enron n.a. i would put calger way higher.  ie - if it was pulp and paper and i knew that we wouldn't have the opportunity to trade size, chris would be in the top 3.  Maybe 1.  But in this market we need to have the people who can make over 100 MM every year.  just thinking.
+
+-----Original Message----- 
+From: Kitchen, Louise 
+Sent: Sat 10/13/2001 11:58 AM 
+To: Lavorato, John 
+Cc: 
+Subject: RE: 
+
+
+I didn't get a copy of Dave's email but a few comments and I attach a compromise ordering.  I added to your file schoolyard.
+ 
+Our differences are:
+Me - Don Miller, Joe Deffner,Chris Foster
+You - Zipper, Ermis, Aucoin
+ 
+I would put them all ahead of Bernie however I have no data points apart from p&l on nothing with Frank so I can't comment on him..  Not huge differences in order, apart from your slant on Canadians!  The main issue with yours is Calger behind Benson and Zufferli (and even maybe Dana), he's a future leader of this organisation.  Your ordering is very P&L based.
+ 
+Are we supposed to cover Wes or will Causey? 
+ 
+I added to your file schoolyard.
+ 
+Speak to you later.
+ 
+Louise
+
+Belden	
+Arnold	
+Presto	
+Shively	
+Sturm	
+Swerzbin	
+Calger	
+Davis, Dana	
+Benson	
+Milnthorp	
+Zufferli	
+Herndon	
+Motley	
+Davies	
+martin	
+grigsby	
+Tycholiz	
+Richter	
+Black	
+Luce	
+Allen	
+Devries	
+Wiggs	
+Duran	
+Storey	
+Arora	
+Zipper	
+Foster	
+Ermis or Miller	
+Gonzales	
+
+-----Original Message-----
+From: Lavorato, John 
+Sent: Saturday, October 13, 2001 9:56 AM
+To: Kitchen, Louise
+Subject: 
+
+
+I think we have 3 that are on my list and not on yours.  We have big differences in order.  I'm very concerned about this process.  I'll send you dave's email and you might understand why.
+ 
+Call me or resend me an email.
+ 
+john
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <12757947.1075853014627.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-22 03:56:37+00:00
+From: louise.kitchen@enron.com
+To: chris.abel@enron.com
+Subject: I am getting a bit fed up
+--------------------------------------------------------------------------------
+
+with not being able to access our own reports - this is the second time I have asked.  Please open up the reports to me.  Or is there someone else I should be asking?
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <32729141.1075853010754.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-30 03:34:01+00:00
+From: louise.kitchen@enron.com
+To: n..gray@enron.com, savita.puthigai@enron.com, legal <.taylor@enron.com>
+Subject: RE: GTC Change for removal of HPL language
+--------------------------------------------------------------------------------
+
+Do the innocuouss route and send them a letter stating you will change it at the next available/scheduled GTC change would be my suggestion.
+
+Also just to confirm no GTC  changes on anything for the near future.
+
+Thanks
+
+Louise
+
+-----Original Message-----
+From: Gray, Barbara N. 
+Sent: Monday, October 29, 2001 2:52 PM
+To: Puthigai, Savita; Kitchen, Louise; Taylor, Mark E (Legal)
+Cc: Richter, Brad
+Subject: RE: GTC Change for removal of HPL language
+
+
+Savita,
+
+ As we have discussed, when Enron sold HPL to AEP, Enron specifically agreed that all rights to the name "Houston Pipe Line Company" as of June 1,2001, were the sole property of AEP/HPL and that no Enron Entity would use that name.
+ On or about the first of June, the EOL Long Product descriptions were modified to provide that notwithstanding that the GTC's for physical natural gas provided that all Enron transactions in Texas were to be deemed HPL transactions, that such language was overridden by the Long Product description.
+Notwithstanding this modification to the Long Product description, AEP is claiming that the continued use by EOL in EOL's GTC's violates the Purchase and Sale Agreement and impinges on its trademark "HPL".  As we discussed last week, we have  received a letter from AEP threatening a lawsuit if we do not immediately remove the references to HPL from the EOL GTC's.
+
+Based on what has been happening in the past several days, I completely concur that we should not require that any EOL Counterparty "re-accept" the physical natural gas GTC's in order to trade with ENRON.
+
+I advise that we either (i) do nothing and risk being sued by AEP, or (ii) that we forget about making any other "cleanup" changes requested by Stacy and merely notify the applicable Counterparties that as evidenced by the Long Product description for physical natural gas transactions, all such transactions will continue to be with Enron, not HPL, and that the EOL GTC will be modified as of [date] to eliminate any reference to HPL.
+
+I would suggest that this notification be done as innocuously as possible....such as on the remittance statements in/on our checks to these Counterparties or on our invoices.  We should not ask any Counterparty to sign or return anything to reflect this, nor should we request any reacceptance of out EOL GTC .
+
+You have inquired as to the possibility of getting AEP to enter into an agreement with Enron to not change our online GTC at this time.  Frankly, at the present time the relationship between Enron and AEP is quite antagonistic..... we have several matters pending which need to be resolved.......in order to reach some type of agreement with them regarding use of the HPL name we would need to "make it worth their while"..... and due to some of the positions Enron is currently taking, AEP would probably refuse to enter into any such side agreement with or without costly concessions . 
+
+Thus, as I stated earlier, we should either "do nothing" and wait for the lawsuit....or go the "innocuous notice" route.
+
+I have spoken with Mark Taylor and he concurs that under the current circumstances, these are preferable routes to the POP-Up and reacceptance  route which had been in the works for the past few months.
+
+Please fell free to call me with any questions or comments.  If we decide to go the "notification route", I will promptly draft the exact language to be used.
+
+Best Regards
+Barbara 
+
+
+-----Original Message-----
+From: Puthigai, Savita 
+Sent: Monday, October 29, 2001 10:35 AM
+To: Kitchen, Louise; Taylor, Mark E (Legal)
+Cc: Gray, Barbara N.; Richter, Brad
+Subject: RE: GTC Change for removal of HPL language
+
+
+Hi Mark, Barbara,
+
+Can we work something out with AEP whereby we don't change the online GTC for sometime? We do have language in the Product Long Description that adresses the sale of HPL. Is there any other way we can allay AEP's concern that counterparties logging onto EnronOnline are confused about the actual ownership of HPL. Thanks.
+
+Savita
+
+-----Original Message-----
+From: Kitchen, Louise 
+Sent: Monday, October 29, 2001 10:04 AM
+To: Puthigai, Savita
+Subject: Re: GTC Change for removal of HPL language
+
+
+Not in the near future
+--------------------------
+Sent from my BlackBerry Wireless Handheld
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <25619963.1075840844631.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-11-05 03:37:50+00:00
+From: louise.kitchen@enron.com
+To: louise.kitchen@enron.com
+Subject: FW: Goldman Sachs Due Diligence
+--------------------------------------------------------------------------------
+
+
+
+There is a lot of confidential information here (in items 1and 2)
+
+Detailed monthly P&L covering all trading activity for the last three years
+
+ 
+
+Potential Exposure by sector (eg gas and electricity utility)
+
+ 
+
+
+Detailed monthly P&L covering all trading activity for the last three years.
+
+ 
+
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <4085639.1075855289046.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-11-27 03:29:53+00:00
+From: louise.kitchen@enron.com
+To: s..bradford@enron.com, raymond.bowen@enron.com
+Subject: RE: Reliant meeting
+--------------------------------------------------------------------------------
+
+Ray
+
+Essentially they are fishing its not a really good time for them to come in (but when is).  Its a reassurance meeting please help if you can.
+
+Joe Bob Perkins did a lot of damage in the market to us initially (one month ago) so assume everything you say get's made public.
+
+The fact we are doing 3500 trades a day still is a thing you can tell him.
+
+Thanks
+
+:Louise
+ -----Original Message-----
+From: 	Bradford, William S.  
+Sent:	Monday, November 26, 2001 6:41 PM
+To:	Bowen Jr., Raymond
+Cc:	Kitchen, Louise
+Subject:	Reliant meeting
+
+Ray,
+
+Eddie Meche (CRO) and Jim Bob Perkins (President) from Reliant will be meeting with you and I in your offices at 8:00AM.   The purpose of the meeting is to continue to educate Reliant on our current financial position.  They have been supportive in the market until last week where they came out with a public announcement with concerns about Enron.  Our hope is to give them further disclosure to get them comfortable with our near term and long term financial plans.  They have $100mm gross exposure ($50mm net exposure) to Enron and have recently slowed trading volumes.
+
+Feel free to give me a call if you need further breifings.  I will be in the office about 7:00AM.
+
+Thanks,
+Bill
+
+713-857-7739 (cell)
+713-853-3831 (office)
+713-863-1884 (home)
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <7535040.1075840964599.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-01-05 15:01:24+00:00
+From: louise.kitchen@enron.com
+To: ellen.wallumrod@enron.com
+Subject: http://shop.store.yahoo.com/oneworldgift/nok88worgsmc.html
+--------------------------------------------------------------------------------
+
+Welcome, Guest View All Carts <http://store.yahoo.com/cgi-bin/wg-carts?tab=carts> - Order Status <http://store.yahoo.com/cgi-bin/wg-carts?tab=status> - Privacy Policy <http://docs.yahoo.com/info/privacy/> - Sign In <http://edit.yahoo.com/config/login?.src=sto&lg=us&.intl=us&.last=http://shop.store.yahoo.com/oneworldgift/nok88worgsmc.html&.done=http://shop.store.yahoo.com/oneworldgift/nok88worgsmc.html> 	
+
+ 	 	 <index.html>  <index.html> 	
+		 <http://store3.yimg.com/I/oneworldgift_1663_438144>  <http://store3.yimg.com/I/oneworldgift_1663_438144>      Nokia 8890 World GSM Cellular Phone (Unlocked)    (100% in Stock)  The Nokia 8890 at a Glance:  Availability: Europe and Africa, the Americas Weight: 91 g (Lithium Battery) Dimensions: 100 x 44 x 18 mm, 70 cc Talktime: 2 h - 3 h 20 min Standby time: 50 - 150 h   Key features:  world phone, automatic network selection, real time clock, slim & light, voice dialing, picture messaging, predictive text input, matte aluminum covers Display: illuminated high-contrast, full-graphics display, 5 lines for text and graphics Data capability: built-in infrared link and modem; supports data transmission up to 9.6 kbps Operating Frequency: GSM 900/GSM 1900 (Supports EGSM 900 band) *  Full Specifications for Nokia 8890:  Size Weight: 91 g (Lithium Battery) Dimensions: 100 x 44 x 18 mm, 70 cc Display Illuminated high-contrast, full-graphics display Up to 5 lines for text, numbers, graphics Memory functions 250 names and numbers in phone, up to 250 on SIM card Memory for 50 calendar notes Voice dialing Memory for 8 numbers Short Message Services * Predictive text input Built-in dictionary database Support for over ten European languages Picture messaging Several default pictures All images are replaceable Smart Messaging TTML browser allows your phone to receive new menu items, making it easy to access services from an operator. Network operation World Phone operates in Europe, Africa, Asia, Australia and the Americas GSM 900 (supports EGSM 900 band) and GSM1900 Automatic switching between bands Automatic network selection Real time clock from network (Network Indicated Time Zone) Retractable antenna (for enchanced reception e.g. in GSM1900 zones) * Security and cost control Electronic keyguard Security code PIN1, PIN2 Call timers Call barring Advice of charge Optional controls 23 language options available 35 default ringing tones Space for 5 received ringing tones Built-in GSM data capability Built-in infrared link Internal modem for data connections Supports data transmission up to 9.6 kbps Infrared transfer of names and phone numbers between compatible phones Pc Suite for Nokia 8890 will be downloadable at Nokia web pages in the near future. The availability of particular products and services may vary by region. Please check with the Nokia dealer nearest you. Specifications are subject to change without notice. Some features are network dependent. * Please check roaming agreement availability with your network operator.  World-class in coverage...  The Nokia 8890 is the first phone produced by Nokia that can be used in five continents: Europe, Asia, Africa, Australia and the Americas. That means you can travel to 123 countries with one phone. And you don't have to worry about changing the network settings from country to country; the Nokia 8890 will take care of that automatically.   World-class in design  When you see it's matte aluminium finish, and it's quality craftmanship, you instinctively know that the Nokia 8890 has more in common with art, music or architecture than with traditional mobile phones. It is a unique masterpiece of contemporary design. Once you use it though, you'll find out that underneath that beautiful exterior lies a phone with some of the most sophisticated features  available.Data Environment  The Nokia 8890 can be connected with a compatible PC via its integrated infrared port.  PC Suite for Nokia 8890:  With PC Suite you can write text messages or manage your phone's memory using a compatible PC. You can add, delete and copy names and phone numbers in PC Suite and then transfer the revised data to your phone via the infrared port. The setup software allows easy installation on a compatible PC running Windows 95/98. * Pc Suite for Nokia 8890 will be downloadable at Nokia web pages in the near future.  Top of Form 1  Availability: Usually ships the same business day.  Nokia 8890 Regular price: $600.00 Sale price: $399.95  Extra Battery: Extra Battery" Lithium Battery(+$39.99)No Thanks  Headset: Headset" Headset With PTT Key(+14.95)No Thanks  Desktop Charger: Desktop Charger" Original Nokia(+14.95)No Thanks       Bottom of Form 1	
+		 	
+		 <nok88litionb.html>  <nok88litionb.html>Nokia Lithuim Ion Battery <nok88litionb.html> This battery is compatible with Nokia 8210, 8290, 8850, 8890. Our lithium battery is the lightest and most compact battery that exists in the market today. It is also one of the longest lasting battery for Nokia cell phone in the world.  Lithium battery Specifications: 650 capacity (mAH) 160 talking (min.) 60 standby (hrs)   Top of Form 2  Availability: Usually ships the same business day.  litbatt-8890 Regular price: $69.99 Sale price: $39.99       Bottom of Form 2	
+		 	
+		   ? 2000-1 1WorldGift.com Inc. If you have specific product questions or questions about your order please call us at 631-864-4378 or email us at:sales@oneworldgift.com <mailto:oneworldgift@yahoo.com>     Home <http:// www.1worldgift.com/ > | Accessories <http://www.1worldgift.com/accessories.html > | Assorted Cases <http://www.1worldgift.com/assortedcases.html > | Blood Pressure Moniter <http://www.1worldgift.com/bloodpresmon.html > | Camcorders <http://www.1worldgift.com/camcorders2.html > | Cellular Phones  <http://www.1worldgift.com/cellularphones.html >| Clocks <http://www.1worldgift.com/clocks.html> | Digital Cameras <http://www.1worldgift.com/digitalcameras.html > | DVD Players <http://www.1worldgift.com/dvdplayers.html > | Extended Warrenties <http://www.1worldgift.com/exwar.html > | Laptops <http://www.1worldgift.com/laptops.html > | Package Deals <http://www.1worldgift.com/packagedeals.html > | PDA's <http://www.1worldgift.com/pdas.html > | Photo Camera's <http://www.1worldgift.com/cameras.html > | Portable Audio's <http://www.1worldgift.com/portableaudio.html > | Audio Products  <http://www.1worldgift.com/specaudprod.html >| Telephones <http://www.1worldgift.com/pantel.html > | Watches <http://www.1worldgift.com/watches.html > | 110/220 Volt Electronics <http://www.1worldgift.com/11volel.html >| Shipment Tracking Page <http://www.1worldgift.com/shiptracpag.html>	
+
+
+
+Louise Kitchen
+Chief Operating Officer
+Enron Americas
+Tel:  713 853 3488
+Fax: 713 646 2308
+
+
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <15239971.1075840964547.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-01-05 15:04:59+00:00
+From: louise.kitchen@enron.com
+To: leslie.hansen@enron.com, david.forster@enron.com, legal <.taylor@enron.com>
+Subject: RE:
+--------------------------------------------------------------------------------
+
+Its the week-end so I am finally doing my emails.
+ 
+I forgot to thank Leslie for doing these - so thanks Leslie it was appreciated.
+
+-----Original Message-----
+From: Hansen, Leslie 
+Sent: Thursday, January 03, 2002 2:09 PM
+To: Kitchen, Louise; Forster, David; Carter, Carl; Taylor, Mark E (Legal)
+Subject: 
+
+
+Attached please find the proposed Electronic Trading Agreement and Password Application for Netco.  I have included a clean copy of each document as well as a red-lined copy marked against the version sent to Mark Taylor by Dave and Carl. 
+ 
+You will note that I have made a number of changes to the original EOL documents.  
+ 
+1.  The Password Application.
+ 
+The Password Application contains no substantive changes.  I advise that we retain the original description of the website as a platform for the "purchase and sale of products and instruments based on energy products or other commodities (including derivative products)".  The description is sufficiently broad to cover any potential expansion beyond the original gas and power products, as well as third party product offerings.  After a brief discussion regarding the auction platform with Louise, I revised the PA to reinsert references to the auction.
+ 
+2.  The Electronic Trading Agreement.
+ 
+There are numerous revisions and additions to the ETA.  I outline below a few of the key changes requiring your consideration:
+ 
+a.  I added a sentence at the end of Section 1 to make clear that in the event the ETA conflicted with any other agreement between the parties, including any terms posted on the Website, the ETA controls.
+ 
+b.  I added a new Section 2(h) to address Counterparty content posted on any public area of the Website.  To the extent that we anticipate such a capability in the future, it may be a good idea to include such a provision.  If we do include this section, do we want to limit our license of the content to use on the Website and related materials, as proposed here?  If you do not want to include such a limitation, we can add the word "worldwide" to the first sentence before the word "royalty-free" and delete the balance of the final sentence after the phrase "not distorted by displaying only a part)".
+ 
+c.  I revised Section 3(e) to clarify that Netco is not required to send written confirmations of on-line transactions and to provide that electronic records are admissible as evidence of the transaction.  The last sentence of the section is intended to make clear that to the extent the master agreement requires a written confirmation, such master agreement controls, provided that the failure to send a confirmation will not invalidate the transaction.
+ 
+d.  I added a new Section 4 to address transactions posted by unaffiliated third parties.  (This issue was already covered in the last paragraph of the original PA.)
+ 
+e.  I revised Section 5(a) to clarify that Netco is not liable for any direct damages and to expressly cap its damages to amounts paid by Counterparty for accessing the Website.
+ 
+f.  I revised Section 5(b) and (c) in response to issues raised by many counterparties when I negotiated EOL ETA issues. 
+ 
+g.  Section 6(a) has been revised to expressly provide that Confidential Information excludes counterparty identifying information, as well as transactional or biographical information in statistical form.  Please let me know if you disagree with the scope of this exclusion.  If you don't want to exclude counterpary identifying information, we can merely delete the phrase "the identification of Counterpartt as a user of the Website and shall also exclude".  I added a 1-year term following expiration of the ETA to the confidentiality obligation in Section 6(d), reasoning that most of the confidential information protected by this Section belongs to the Counterparty, not Netco, and thus desiring some cut off point for our obligation to maintain confidentiality.
+ 
+ 
+A number of our counterparties enter into transaction by and through service companies or agents.  I have prepared a revised Password Application, side letter to the ETA, and Consent and Acknowledgment form to be utilized by such counterparties and attach these documents below for your review and reference as well.
+ 
+Please give me a call with any questions or comments.
+ 
+Regards,
+ 
+Leslie
+(713) 853-6121 (o)
+(713) 256-0572 (cell)
+(713) 528-5215 (home)
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <12689672.1075840964151.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-01-05 18:43:57+00:00
+From: louise.kitchen@enron.com
+To: m.hall@enron.com
+Subject: RE: NETCO
+--------------------------------------------------------------------------------
+
+You will be sending me a plan tomorrow for all of Energy Ops though won't you?
+
+ -----Original Message-----
+From: 	Hall, Bob M  
+Sent:	Saturday, January 05, 2002 11:02 AM
+To:	Kitchen, Louise
+Subject:	RE: NETCO
+
+I talked to Bob on Friday.  He is involved with Jay and the IT people on the system plan.
+
+The only item open, I think, is a deal with EC Outlook concerning the EDI Hub.  Jay  and Bob
+McAllif are working with them. Won't need right way, used for physical gas.
+
+He is also working on a list of contracts needed with the pipelines and LDC's.
+
+I'll keep you posted if I see any problems with logistics.
+
+thanks
+
+bob
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Saturday, January 05, 2002 10:55 AM
+To:	Hall, Bob M
+Subject:	FW: NETCO
+
+Who is doing the Gas Logistics restart plan?  Bob Superty hopefully
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Monday, December 31, 2001 12:54 PM
+To:	Colwell, Wes; Hodges, Georgeanne; Milnthorp, Rob; Zufferli, John; Hedstrom, Peggy; Myers, Thomas; Bradford, William S.; Will, Lloyd; Beck, Sally; Hall, Bob M; Presto, Kevin M.; Forster, David; Reeves, Leslie; Gaskill, Chris; Superty, Robert; Lagrasta, Fred; Luce, Laura; Tycholiz, Barry; Redmond, Brian; Vickers, Frank; Gossett, Jeffrey C.; Arnold, John; Grigsby, Mike; Allen, Phillip K.; Neal, Scott; Martin, Thomas A.; Shively, Hunter S.; Wynne, Rita; Rub, Jenny; Webb, Jay; Haedicke, Mark E.; Buy, Rick; Calger, Christopher F.; Duran, W. David; Robinson, Mitch; Curry, Mike; Heizenrader, Tim; Belden, Tim; White, Stacey W.; Steffes, James D.; Aucoin, Berney C. ; Roberts, Mike A.; Oxley, David
+Cc:	Lavorato, John
+Subject:	NETCO
+
+The New Year has arrived and we really to finalize a lot of the work with regards to moving into NETCO.  Obviously we still do not have a deal but the deadline is approaching and preparations need to be finalized.
+
+The main areas to focus on over the next week are:-
+
+(i) 	Re-start/Integration Plans (due on Jan 7)				To be forwarded to Louise	
+	These plans need to be detailed and show clear detailed timelines and detailed responsibilities for getting us up and running as soon as possible.  
+	The current restart date is January 21, 2001 but may be pushed forward to January 14, 2002.	
+(ii)	Budget (due Jan 3, 2002)						To be forwarded to Faith Killen 
+	First year budget to include all start up costs (some of which can be amortized)
+(iii)	Seating Plans								Tammy Shepperd to co-ordinate
+	We need to start the planning process for seating as we will be living on floors 5 & 6 of the Enron South building.
+	I have asked Tammy Shepperd to commence the seating plan and we would look to start the moves as soon as possible but with a large number occuring around January 11,2002.
+(iv)	Due Diligence
+	We continue the process with two new companies this week (Wednesday and Thursday). Andy Zipper is taking the lead for the company arriving on Wednesday, please help him with his requirements.
+
+I would ask that both John and I are notified of any changes to the Netco personnel list on a timely fashion and that the list is maintained on a continual basis.  Please forward all alterations to Jeanie Slone who has responsibility for the master list.
+
+Communication - I believe that the New Year combined with a internal communication issues may be a good time to review what we want to say on Netco and what our policies are.  I am asking David Oxley to co-ordinate with all of you on this.  I know a lot of you believe that we need to only communicate once we have retention programme in place for the estate which may be a good idea but we we need to make sure that we lose as few people as possible.
+
+If you are unavailable this week, please ensure you delegate this work out.
+
+Happy New Year
+
+Louise
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <4324492.1075841435032.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-01-12 20:38:24+00:00
+From: louise.kitchen@enron.com
+To: rob.milnthorp@enron.com, m..presto@enron.com, tim.belden@enron.com, 
+	f..calger@enron.com
+Subject: FW: Data Request
+--------------------------------------------------------------------------------
+
+ 
+-----Original Message-----
+From: Rub, Jenny 
+Sent: Saturday, January 12, 2002 10:45 AM
+To: Kitchen, Louise; Schoppe, Tammie
+Cc: Webb, Jay
+Subject: Data Request
+
+
+Louise,  I worked with the team this morning and developed the following.  Please call me at 281-463-4421 or 713-851-5456 if you would like to discuss.   JR
+ 
+Current Employee Count:   62 (includes 4 people in Calgary)
+ 
+First Cut:   4 people 
+Revised Employee Count:   58
+ 
+Names/Impact
+John Oh -- Fewer people to support in Portland, so less IT support staff needed
+Greg Hibbert -- Fewer people to support in Calgary, so less IT support staff needed
+Yvonne Francios -- Outsource video conferencing support (No cost reduction)
+Randy Buckman -- No executive support;  executives will have receive trader level support
+ 
+Second Cut:   4 people
+Revised Employee Count:  54
+ 
+Shari Daugherty -- Reduced service level in security adminitration and no backup 
+Janet Devereaux -- Outsource phone switch support/backup to Avaya (cost increase)
+Roberto DeLeon -- Rely on UBS for security investigations and policy
+Faheem Qavi -- Rely on UBS for security investigations and policy
+ 
+Third Cut:    5 people
+Revised Employee Count:  49
+ 
+Jenny Rub, Bob McAuliffe, Keith Dziadek, Chris Behney, Bruce Smith --  Reduced management structure, rely on UBS for software and vendor management.  Organizational management for the following functions would be moved to somewhere else in the IT organization:  command center, change managment, batch scheduling, server and storage, networking
+ 
+Fourth Cut:   2 people
+Revised Employee Count:  47
+ 
+Gary Bode, Trey Rhodes  -- Rely on UBS' corporate email services;  no staff or operations available in Houston
+ 
+Fifth Cut:     2 people
+Revised Employee Count:   45
+ 
+Troy Beyer, Ryan Brennan -- No source code management and batch scheduling software support;  Developers would become responsible for the management of these functions.
+ 
+ 
+ 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <22605967.1075840961246.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-01-12 20:48:22+00:00
+From: louise.kitchen@enron.com
+To: cscalger@attbi.com
+Subject: FW: Data Request
+--------------------------------------------------------------------------------
+
+ 
+-----Original Message-----
+From: Kitchen, Louise 
+Sent: Saturday, January 12, 2002 2:38 PM
+To: Milnthorp, Rob; Presto, Kevin M.; Belden, Tim; Calger, Christopher F.
+Subject: FW: Data Request
+
+
+ 
+-----Original Message-----
+From: Rub, Jenny 
+Sent: Saturday, January 12, 2002 10:45 AM
+To: Kitchen, Louise; Schoppe, Tammie
+Cc: Webb, Jay
+Subject: Data Request
+
+
+Louise,  I worked with the team this morning and developed the following.  Please call me at 281-463-4421 or 713-851-5456 if you would like to discuss.   JR
+ 
+Current Employee Count:   62 (includes 4 people in Calgary)
+ 
+First Cut:   4 people 
+Revised Employee Count:   58
+ 
+Names/Impact
+John Oh -- Fewer people to support in Portland, so less IT support staff needed
+Greg Hibbert -- Fewer people to support in Calgary, so less IT support staff needed
+Yvonne Francios -- Outsource video conferencing support (No cost reduction)
+Randy Buckman -- No executive support;  executives will have receive trader level support
+ 
+Second Cut:   4 people
+Revised Employee Count:  54
+ 
+Shari Daugherty -- Reduced service level in security adminitration and no backup 
+Janet Devereaux -- Outsource phone switch support/backup to Avaya (cost increase)
+Roberto DeLeon -- Rely on UBS for security investigations and policy
+Faheem Qavi -- Rely on UBS for security investigations and policy
+ 
+Third Cut:    5 people
+Revised Employee Count:  49
+ 
+Jenny Rub, Bob McAuliffe, Keith Dziadek, Chris Behney, Bruce Smith --  Reduced management structure, rely on UBS for software and vendor management.  Organizational management for the following functions would be moved to somewhere else in the IT organization:  command center, change managment, batch scheduling, server and storage, networking
+ 
+Fourth Cut:   2 people
+Revised Employee Count:  47
+ 
+Gary Bode, Trey Rhodes  -- Rely on UBS' corporate email services;  no staff or operations available in Houston
+ 
+Fifth Cut:     2 people
+Revised Employee Count:   45
+ 
+Troy Beyer, Ryan Brennan -- No source code management and batch scheduling software support;  Developers would become responsible for the management of these functions.
+ 
+ 
+ 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <18530527.1075840960269.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-01-19 00:02:19+00:00
+From: louise.kitchen@enron.com
+To: rob.milnthorp@enron.com
+Subject: RE:  Meeting this week-end
+--------------------------------------------------------------------------------
+
+Message understood - we will try and accomodate Derek
+
+Have a good week-end.
+
+ -----Original Message-----
+From: 	Cappelletto, Nella   On Behalf Of Milnthorp, Rob
+Sent:	Friday, January 18, 2002 5:52 PM
+To:	Kitchen, Louise
+Subject:	RE:  Meeting this week-end
+
+Louise, as per my conversation with John Lavorato, I will not be available this weekend to participate in the conference call.  The only concern I have at this point is that Derek Davies has not committed.  I strongly support and recommend moving his number up.
+
+Regards, Rob
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Friday, January 18, 2002 4:38 PM
+To:	Presto, Kevin M.; Whalley, Greg; Shively, Hunter S.; Lavorato, John; Belden, Tim; Calger, Christopher F.; Milnthorp, Rob; Oxley, David
+Cc:	Schoppe, Tammie
+Subject:	 Meeting this week-end
+
+
+We plan to have a conference call at 2pm Sunday to discuss progress.  We want to reallocate dollars which have been returned to the pool and ensure we keep the process moving and any contracts redone by the UBS team in preparation for Monday.  David is going to send an email with contact numbers etc for questions people may have with regard to the contracts (apart from the numbers and promotions) as all those questions need to be sent to HR.
+
+Please make sure you contact all of your guys and have an idea of where they are at.
+
+Tammie will contact you all with the dial in number.
+
+The meeting will be in John's office.
+
+Thanks
+
+Louise
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <5942805.1075840958346.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-01-26 18:36:45+00:00
+From: louise.kitchen@enron.com
+To: xpollard@richardfreemanco.com
+Subject: RE:
+--------------------------------------------------------------------------------
+
+We'll see you at about 4pm is that ok?
+
+On cell 07778757656 - flying tonight.
+
+ -----Original Message-----
+From: 	"Xuan Pollard" <xpollard@richardfreemanco.com>@ENRON  
+Sent:	Thursday, January 17, 2002 3:47 AM
+To:	Kitchen, Louise
+Subject:	Re:
+
+OK for 29th.  Camille finishes school at 2.30pm on Tuesdays so why dont you
+come over to west london and then have some supper so that Pierre can see
+you when he gets back from work.
+
+X
+----- Original Message -----
+From: Kitchen, Louise <Louise.Kitchen@enron.com>
+To: Xuan Pollard <xpollard@richardfreemanco.com>
+Sent: Tuesday, January 15, 2002 7:54 PM
+Subject: RE:
+
+
+
+27th - Marcus family - first time they have seen Scott
+30th - at the embassy all day for green card
+
+So how about afternoon of 29th?
+>  -----Original Message-----
+> From: "Xuan Pollard" <xpollard@richardfreemanco.com>@ENRON
+> Sent: Tuesday, January 15, 2002 3:48 AM
+> To: Kitchen, Louise
+> Subject: Re:
+>
+> That is v soon but also v short.  We are around those dates.  Sunday 27 is
+> cool.  Monday 28th - am working, 29th working in the morning only and
+> Wednesday 30th all day off.
+> Quack
+> ----- Original Message -----
+> From: Kitchen, Louise <Louise.Kitchen@enron.com>
+> To: Xuan Pollard <xpollard@richardfreemanco.com>
+> Sent: Monday, January 14, 2002 10:32 PM
+> Subject: RE:
+>
+>
+> Hello
+>
+> We are coming over to get our green card done - hopefully anyway. We will
+be
+> in London 27th - 30th of January - are you around?
+>
+> Can't wait to see Camille and Alice.
+>
+> In a while - crocodile
+>
+> >  -----Original Message-----
+> > From: "Xuan Pollard" <xpollard@richardfreemanco.com>@ENRON
+> > Sent: Monday, January 14, 2002 6:44 AM
+> > To: Kitchen, Louise
+> > Subject:
+> >
+> >
+> > Happy new year!!!   Hope you had a nice  Xmas and new year.  Thank you
+so
+> much for lovely presents.  Alice  adores her frog...it's a great idea.
+When
+> are you coming over?  We  are off to Megeve ( I think...) from the 15th
+> March, kids at ski  school/creche.  We can fit more people into flat if
+you
+> are in the  area.
+> >
+> > Later alligator
+> >
+> > X
+> >
+>
+____________________________________________________________________________
+> _____________________________________
+> > This  email is confidential and may also be privileged.  If you are not
+> the  intended recipient please notify us immediately by telephone on 0207
+> 351 5151  and ask for the sender.  You should not copy it or use it for
+any
+> purpose  nor disclose its contents to any other person.
+> >
+> > Internet communications are not secure and  therefore Richard Freeman &
+Co
+> does not accept legal responsibility for the  contents of this message as
+it
+> has been transmitted over a public network.   If you suspect the message
+may
+> have been intercepted or amended, please call the  sender.
+> >
+> > Richard Freeman & Co
+> > 13 Radnor   Walk
+> > London SW3
+>
+>
+> **********************************************************************
+> This e-mail is the property of Enron Corp. and/or its relevant affiliate
+and
+> may contain confidential and privileged material for the sole use of the
+> intended recipient (s). Any review, use, distribution or disclosure by
+> others is strictly prohibited. If you are not the intended recipient (or
+> authorized to receive for the recipient), please contact the sender or
+reply
+> to Enron Corp. at enron.messaging.administration@enron.com and delete all
+> copies of the message. This e-mail (and any attachments hereto) are not
+> intended to be an offer (or an acceptance) and do not create or evidence a
+> binding and enforceable contract between Enron Corp. (or any of its
+> affiliates) and the intended recipient or any other party, and may not be
+> relied on by anyone as the basis of a contract by estoppel or otherwise.
+> Thank you.
+> **********************************************************************
+>
+>
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <14619093.1075840957576.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-02-02 00:49:42+00:00
+From: louise.kitchen@enron.com
+To: john.lavorato@enron.com, greg.whalley@enron.com
+Subject: FW: Hart-Scott Approval
+--------------------------------------------------------------------------------
+
+WAHEY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+ -----Original Message-----
+From: 	Louis.Eber@ubsw.com@ENRON  
+Sent:	Friday, February 01, 2002 5:53 PM
+To:	Mary.Barker@ubsw.com; Beth.Barrett@ubsw.com; Michael.Bolin@ubsw.com; Mark.Bridges@ubsw.com; Markus.Buergler@ubsw.com; Natacha.Carrel@ubs.com; Forster, David; Oxley, David; Port, David; colette.dow@ubsw.com; Per.Dyrvik@ubsw.com; Lisa.Feld@ubs.com; Joel.Forbes@ubsw.com; dan.foy@ubsw.com; alexander.fusco@ubsw.com; William.Glass@ubs.com; Thomas-A.Graf@ubsw.com; Peter.Haines@ubsw.com; Webb, Jay; Rub, Jenny; Sid.Karpoff@ubsw.com; Steve.Kinross@ubsw.com; flenti@ubspw.com; Mark.LeRoux@ubsw.com; louise@enron.com; mark.e.haedicke@enron.com; Audrey.Martin@ubsw.com; Christian.Maytain@ubsw.com; Matt.Meinel@ubsw.com; Ursula.Mills@ubsw.com; martin.nadel@ubsw.com; Davies, Neil; Pat.ODonnell@ubsw.com; Keohane, Peter; Ernest.Pittarelli@ubsw.com; breilly@ubspw.com; Cheryl.Roberts@ubsw.com; claudia.robinson@ubsw.com; Charles.Ross-Stewart@ubsw.com; Beck, Sally; Michael.Stockman@ubsw.com; Rocco.Veltri@ubsw.com; Mark.Wallace@ubsw.com; Colwell, Wes; Bradford, William S.
+Subject:	RE:  Hart-Scott Approval
+
+We have just been informed that the FTC has granted early termination
+of the Hart-Scott-Rodino waiting period for the purchase of Enron's gas
+and power business.
+
+
+
+
+Visit our website at http://www.ubswarburg.com
+
+This message contains confidential information and is intended only
+for the individual named.  If you are not the named addressee you
+should not disseminate, distribute or copy this e-mail.  Please
+notify the sender immediately by e-mail if you have received this
+e-mail by mistake and delete this e-mail from your system.
+
+E-mail transmission cannot be guaranteed to be secure or error-free
+as information could be intercepted, corrupted, lost, destroyed,
+arrive late or incomplete, or contain viruses.  The sender therefore
+does not accept liability for any errors or omissions in the contents
+of this message which arise as a result of e-mail transmission.  If
+verification is required please request a hard-copy version.  This
+message is provided for informational purposes and should not be
+construed as a solicitation or offer to buy or sell any securities or
+related financial instruments.
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <16242415.1075841428739.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-02-02 01:53:55+00:00
+From: louise.kitchen@enron.com
+To: m..presto@enron.com
+Subject: RE: Hart-Scott Approval
+--------------------------------------------------------------------------------
+
+Friday unfortunately  - I asked for earlier.
+ 
+Lavo asked the same question
+
+-----Original Message-----
+From: Presto, Kevin M. 
+Sent: Friday, February 01, 2002 7:48 PM
+To: Kitchen, Louise
+Subject: RE: Hart-Scott Approval
+
+
+When will we close?
+
+-----Original Message----- 
+From: Kitchen, Louise 
+Sent: Fri 2/1/2002 6:51 PM 
+To: Colwell, Wes; Hodges, Georgeanne; Milnthorp, Rob; Zufferli, John; Hedstrom, Peggy; Bradford, William S.; Will, Lloyd; Beck, Sally; Presto, Kevin M.; Forster, David; Gaskill, Chris; Superty, Robert; Lagrasta, Fred; Tycholiz, Barry; Redmond, Brian; Vickers, Frank; Gossett, Jeffrey C.; Grigsby, Mike; Allen, Phillip K.; Neal, Scott; Martin, Thomas A.; Shively, Hunter S.; Rub, Jenny; Webb, Jay; Haedicke, Mark E.; Calger, Christopher F.; Curry, Mike; Belden, Tim; White, Stacey W.; Steffes, James D.; Oxley, David; Lavorato, John; Whalley, Greg 
+Cc: 
+Subject: FW: Hart-Scott Approval
+
+
+
+
+
+ -----Original Message----- 
+From:   Louis.Eber@ubsw.com@ENRON  
+Sent:   Friday, February 01, 2002 5:53 PM 
+To:     Mary.Barker@ubsw.com; Beth.Barrett@ubsw.com; Michael.Bolin@ubsw.com; Mark.Bridges@ubsw.com; Markus.Buergler@ubsw.com; Natacha.Carrel@ubs.com; Forster, David; Oxley, David; Port, David; colette.dow@ubsw.com; Per.Dyrvik@ubsw.com; Lisa.Feld@ubs.com; Joel.Forbes@ubsw.com; dan.foy@ubsw.com; alexander.fusco@ubsw.com; William.Glass@ubs.com; Thomas-A.Graf@ubsw.com; Peter.Haines@ubsw.com; Webb, Jay; Rub, Jenny; Sid.Karpoff@ubsw.com; Steve.Kinross@ubsw.com; flenti@ubspw.com; Mark.LeRoux@ubsw.com; louise@enron.com; mark.e.haedicke@enron.com; Audrey.Martin@ubsw.com; Christian.Maytain@ubsw.com; Matt.Meinel@ubsw.com; Ursula.Mills@ubsw.com; martin.nadel@ubsw.com; Davies, Neil; Pat.ODonnell@ubsw.com; Keohane, Peter; Ernest.Pittarelli@ubsw.com; breilly@ubspw.com; Cheryl.Roberts@ubsw.com; claudia.robinson@ubsw.com; Charles.Ross-Stewart@ubsw.com; Beck, Sally; Michael.Stockman@ubsw.com; Rocco.Veltri@ubsw.com; Mark.Wallace@ubsw.com; Colwell, Wes; Bradford, William S.
+
+Subject:        RE:  Hart-Scott Approval 
+
+We have just been informed that the FTC has granted early termination 
+of the Hart-Scott-Rodino waiting period for the purchase of Enron's gas 
+and power business. 
+
+
+
+
+Visit our website at <http://www.ubswarburg.com> 
+
+This message contains confidential information and is intended only 
+for the individual named.  If you are not the named addressee you 
+should not disseminate, distribute or copy this e-mail.  Please 
+notify the sender immediately by e-mail if you have received this 
+e-mail by mistake and delete this e-mail from your system. 
+
+E-mail transmission cannot be guaranteed to be secure or error-free 
+as information could be intercepted, corrupted, lost, destroyed, 
+arrive late or incomplete, or contain viruses.  The sender therefore 
+does not accept liability for any errors or omissions in the contents 
+of this message which arise as a result of e-mail transmission.  If 
+verification is required please request a hard-copy version.  This 
+message is provided for informational purposes and should not be 
+construed as a solicitation or offer to buy or sell any securities or 
+related financial instruments. 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <26396108.1075841428715.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-02-02 02:19:33+00:00
+From: louise.kitchen@enron.com
+To: m..presto@enron.com
+Subject: RE: Hart-Scott Approval
+--------------------------------------------------------------------------------
+
+not yet
+
+-----Original Message-----
+From: Presto, Kevin M. 
+Sent: Friday, February 01, 2002 7:56 PM
+To: Kitchen, Louise
+Subject: RE: Hart-Scott Approval
+
+
+Did UBS waive the employee CP?
+
+-----Original Message----- 
+From: Kitchen, Louise 
+Sent: Fri 2/1/2002 7:53 PM 
+To: Presto, Kevin M. 
+Cc: 
+Subject: RE: Hart-Scott Approval
+
+
+Friday unfortunately  - I asked for earlier.
+ 
+Lavo asked the same question
+
+-----Original Message-----
+From: Presto, Kevin M. 
+Sent: Friday, February 01, 2002 7:48 PM
+To: Kitchen, Louise
+Subject: RE: Hart-Scott Approval
+
+
+When will we close?
+
+-----Original Message----- 
+From: Kitchen, Louise 
+Sent: Fri 2/1/2002 6:51 PM 
+To: Colwell, Wes; Hodges, Georgeanne; Milnthorp, Rob; Zufferli, John; Hedstrom, Peggy; Bradford, William S.; Will, Lloyd; Beck, Sally; Presto, Kevin M.; Forster, David; Gaskill, Chris; Superty, Robert; Lagrasta, Fred; Tycholiz, Barry; Redmond, Brian; Vickers, Frank; Gossett, Jeffrey C.; Grigsby, Mike; Allen, Phillip K.; Neal, Scott; Martin, Thomas A.; Shively, Hunter S.; Rub, Jenny; Webb, Jay; Haedicke, Mark E.; Calger, Christopher F.; Curry, Mike; Belden, Tim; White, Stacey W.; Steffes, James D.; Oxley, David; Lavorato, John; Whalley, Greg 
+Cc: 
+Subject: FW: Hart-Scott Approval
+
+
+
+
+
+ -----Original Message----- 
+From:   Louis.Eber@ubsw.com@ENRON  
+Sent:   Friday, February 01, 2002 5:53 PM 
+To:     Mary.Barker@ubsw.com; Beth.Barrett@ubsw.com; Michael.Bolin@ubsw.com; Mark.Bridges@ubsw.com; Markus.Buergler@ubsw.com; Natacha.Carrel@ubs.com; Forster, David; Oxley, David; Port, David; colette.dow@ubsw.com; Per.Dyrvik@ubsw.com; Lisa.Feld@ubs.com; Joel.Forbes@ubsw.com; dan.foy@ubsw.com; alexander.fusco@ubsw.com; William.Glass@ubs.com; Thomas-A.Graf@ubsw.com; Peter.Haines@ubsw.com; Webb, Jay; Rub, Jenny; Sid.Karpoff@ubsw.com; Steve.Kinross@ubsw.com; flenti@ubspw.com; Mark.LeRoux@ubsw.com; louise@enron.com; mark.e.haedicke@enron.com; Audrey.Martin@ubsw.com; Christian.Maytain@ubsw.com; Matt.Meinel@ubsw.com; Ursula.Mills@ubsw.com; martin.nadel@ubsw.com; Davies, Neil; Pat.ODonnell@ubsw.com; Keohane, Peter; Ernest.Pittarelli@ubsw.com; breilly@ubspw.com; Cheryl.Roberts@ubsw.com; claudia.robinson@ubsw.com; Charles.Ross-Stewart@ubsw.com; Beck, Sally; Michael.Stockman@ubsw.com; Rocco.Veltri@ubsw.com; Mark.Wallace@ubsw.com; Colwell, Wes; Bradford, William S.
+
+Subject:        RE:  Hart-Scott Approval 
+
+We have just been informed that the FTC has granted early termination 
+of the Hart-Scott-Rodino waiting period for the purchase of Enron's gas 
+and power business. 
+
+
+
+
+Visit our website at <http://www.ubswarburg.com> 
+
+This message contains confidential information and is intended only 
+for the individual named.  If you are not the named addressee you 
+should not disseminate, distribute or copy this e-mail.  Please 
+notify the sender immediately by e-mail if you have received this 
+e-mail by mistake and delete this e-mail from your system. 
+
+E-mail transmission cannot be guaranteed to be secure or error-free 
+as information could be intercepted, corrupted, lost, destroyed, 
+arrive late or incomplete, or contain viruses.  The sender therefore 
+does not accept liability for any errors or omissions in the contents 
+of this message which arise as a result of e-mail transmission.  If 
+verification is required please request a hard-copy version.  This 
+message is provided for informational purposes and should not be 
+construed as a solicitation or offer to buy or sell any securities or 
+related financial instruments. 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <4046234.1075840957433.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-02-02 17:00:31+00:00
+From: louise.kitchen@enron.com
+To: s..bradford@enron.com, david.forster@enron.com
+Subject: RE: Contracts listing
+--------------------------------------------------------------------------------
+
+On the people - we are planning for a group to start Mopnday pm as it is not as urgent as teh credit wording for this Monday.  Let me know if I can help.
+
+ -----Original Message-----
+From: 	Bradford, William S.  
+Sent:	Saturday, February 02, 2002 9:57 AM
+To:	Forster, David
+Cc:	Taylor, Mark E (Legal)
+Subject:	RE: Contracts listing
+
+Dave,
+
+The download from EOL contract database is not the Day 1 contract list we will be using.  Disregard the Contract/Name Type column in your attachment.  There are only six initial contract types.  Master Gas, Master Power, ISDA and corresponding GTCs.  Also, we will adjust the initial contract requests by Credit Approvals.  We need to be consistent in what we are communicating to UBS and internally.
+
+Thanks,
+Bill
+
+
+
+ -----Original Message-----
+From: 	Forster, David  
+Sent:	Friday, February 01, 2002 9:03 PM
+To:	Bradford, William S.; Brackett, Debbie R.; 'pat.odonnell@ubsw.com'; 'louis.eber@ubsw.com'; 'william.glass@ubsw.com'; 'colette.dow@ubsw.com'
+Cc:	Shults, Bob
+Subject:	Contracts listing
+
+Attached is a list of company legal names, with Enron contract types identified, which some of the recipients of this email have requested.
+
+The GROUPS represented on this list roughly correspond to the groups on the various lists in circulation and should be relevant for relaunch.
+
+The list I sent out earlier today contained some company names which had been identified by commercial groups as Top 50, but in fact will not be trading on day 1 as they do not trade the products which we are planning to launch on day 1.
+
+Accordingly, we will send out a new list tomorrow morning, which will contain:
+
+- Names of pipelines or transmission companies needed for day 1
+- Names of Canadian companies needed for day 1
+
+The revised list will show only those names incremental to the "Louise approved" list currently being used by credit and will contain the full legal name of the relevant entities.
+
+To avoid any confusion, I suggest you delete the last list I sent you and use the "Louise approved" list along with tomorrow's list.
+
+If anyone has any questions, please contact me on:
+
+office: 713 853 1861
+cell: 713 562 8678
+
+Thanks,
+
+Dave
+
+ << File: contracts list.xls >> 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <1600819.1075840956008.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-02-06 04:20:51+00:00
+From: louise.kitchen@enron.com
+To: louis.eber@ubsw.com
+Subject: FW: The procedure
+--------------------------------------------------------------------------------
+
+This is the procedure which currently is documented in the Product Control Function concerning the validity of a signature.
+
+ -----Original Message-----
+From: 	Forster, David  
+Sent:	Tuesday, February 05, 2002 6:51 PM
+To:	Kitchen, Louise
+Subject:	The procedure
+
+
+There are several elements which have been relied upon in the past to verify the authority of the person signing a Password Application:
+
+1) Direct knowledge of the individual signing. The energy community is relatively small. In most cases, we have personal knowledge of the person signing on behalf of the counterparty and have done business with them in the past. 
+
+2) Ostensible Authority.
+
+3) 3rd Party Verification.
+
+For 3rd Party Verification, the following procedure is used after Credit, Legal and Contracts departments have approved the Counterparty for online transactions:
+
+?	The Main reception number at the applicant company is called and a senior contact in the Trading Department is requested
+
+?	A Vice President or Director of trading is requested for verification of the PA signatory as an authorized person to bind the company to Master Agreements and online contracts for commodity trading purposes. The company is informed that the phone call is being recorded.
+
+?	Date, Name, Title and Phone Number of person who verifies the applicant is recorded in three places:  1) Access Tracking Database and 2) Online Trading Operations Control Form and 3) Recorded telephone conversation.
+
+The Master User ID is forwarded to the customer only upon the verification of the authority of the applicant.
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <18956442.1075840955983.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-02-06 04:21:50+00:00
+From: louise.kitchen@enron.com
+To: david.forster@enron.com
+Subject: RE: Power Documents (Final)
+--------------------------------------------------------------------------------
+
+Anything that has areas requiring information to be filled in can obviously not be.
+
+ -----Original Message-----
+From: 	Forster, David  
+Sent:	Tuesday, February 05, 2002 4:18 PM
+To:	Kitchen, Louise
+Subject:	FW: Power Documents (Final)
+
+Louise,
+
+Did you ultimately agree with legal that we would proceed with using the EEI as the GTC?
+
+The GTC provided below is the EEI.
+
+Dave
+
+ -----Original Message-----
+From: 	Sager, Elizabeth  
+Sent:	Monday, February 04, 2002 4:53 PM
+To:	St. Clair, Carol; Cook, Mary; Davis, Angela; Hall, Steve C. (Legal); Hansen, Leslie; Hodge, Jeffrey T.; Keohane, Peter; Koehler, Anne C.; Leite, Francisco Pinto; Nemec, Gerald; Nettelton, Marcus; Portz, David; Taylor, Mark E (Legal); Yoder, Christian; Bryan Murtagh (E-mail); Sanjeev Karkhanis (E-mail); Fitzgerald, Genia; Jones, Tana; Heard, Marie
+Cc:	Presto, Kevin M.; Calger, Christopher F.; Belden, Tim; Kitchen, Louise; Forster, David; Haedicke, Mark E.
+Subject:	Power Documents (Final)
+
+
+Attached are final forms of certain Power Trading documents:
+
+1.  Master Agreement EEI (full blown), with all credit terms left blank, for negotiation with counterparties (CP);
+
+2.  EEI Collateral Annex, including paragraph 10, for use with the Master Agreement EEI;
+
+3.  GTC EEI, Online with credit terms (unilateral right to call for collateral at any time for any reason), for use as the default GTCs Online when dealing with CPs with whom there will be a credit requirement (but could also be used for trades entered into orally assuming we secure the CP consent to the form of agreement, including cover page, prior to entering into trade);
+
+4.  GTC EEI, Online without  credit terms, for use as the default GTCs Online when dealing with CPs with whom there will not be a credit requirement (but could also be used for trades entered into orally assuming we secure the CP consent to the form of agreement, including cover page, prior to entering into trade).
+
+While these documents have been discussed generally with UBS, UBS has not yet had an opportunity to review the actual final version.
+
+100 copies of the first two documents (which will be combined as one for distribution) will be delivered by Genia to Dave shortly.
+
+Please call with any questions/comments.
+
+ << File: UBS EEI Cover Sheet With Collateral Annex Version 1 2-4-02 FINAL.doc >>  << File: NETCO EEI Collateral Annex Version 3 FINAL 2-4.doc >>  << File: UBS-GTC(ONLINE CREDIT)2-4-02 FINAL.doc >>  << File: UBS-GTC(ONLINE WITHOUT CREDIT)2-4-02 FINAL.doc >> 
+
+
+Elizabeth Sager
+713-853-6349
+
+ -----Original Message-----
+From: 	St. Clair, Carol  
+Sent:	Sunday, February 03, 2002 2:57 PM
+To:	Cook, Mary; Davis, Angela; Hall, Steve C. (Legal); Hansen, Leslie; Hodge, Jeffrey T.; Keohane, Peter; Koehler, Anne C.; Leite, Francisco Pinto; Nemec, Gerald; Nettelton, Marcus; Portz, David; Sager, Elizabeth; Taylor, Mark E (Legal); Yoder, Christian; Bryan Murtagh (E-mail); Jeffrey Stewart (E-mail); Jennifer Gabrielson (E-mail); John Magovern (E-mail); Sanjeev Karkhanis (E-mail)
+Cc:	Haedicke, Mark E.; Kitchen, Louise; Fitzgerald, Genia; 'llmagovern@aol.com'
+Subject:	Power Collateral Support Annex
+Importance:	High
+
+Enclosed are clean and mark revised (hopefully close to final) drafts of the EEI Collateral Annex and Cover Sheet.  Most of the changes were made to add Securities as Eligible Collateral.  This has not yet been done on the Cover Sheet since it is in a special format that I couldn't figure out.  It will be done tomorrow.  Please call or e-mail me with any remaining comments as we need to finalize this as early as possible tomorrow.  Thanks.
+
+ << File: NETCO EEI Collateral Annex Cover Sheet Version 2.doc >>  << File: NETCO EEI COLLATERAL ANNEX COVER SHEET RED.DOC >>  << File: NETCO EEI Collateral Annex Version 2.doc >>  << File: NETCO EEI COLLATERAL ANNEX RED.DOC >> 
+
+Genia:
+I left the cover sheet in your chair with the changes that need to be made.  Can you please make those changes?  Thanks.
+
+Carol St. Clair
+EB 4539
+713-853-3989 (phone)
+713-646-3393 (fax)
+281-382-1943 (cell phone)
+8774545506 (pager)
+281-890-8862 (home fax)
+carol.st.clair@enron.com
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <13702803.1075840955958.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-02-06 04:22:34+00:00
+From: louise.kitchen@enron.com
+To: david.forster@enron.com
+Subject: RE: Power Documents (Final)
+--------------------------------------------------------------------------------
+
+I don't think I do  - I thought Elizabeth said she would use a reference document - not the EEI.
+
+ -----Original Message-----
+From: 	Forster, David  
+Sent:	Tuesday, February 05, 2002 4:18 PM
+To:	Kitchen, Louise
+Subject:	FW: Power Documents (Final)
+
+Louise,
+
+Did you ultimately agree with legal that we would proceed with using the EEI as the GTC?
+
+The GTC provided below is the EEI.
+
+Dave
+
+ -----Original Message-----
+From: 	Sager, Elizabeth  
+Sent:	Monday, February 04, 2002 4:53 PM
+To:	St. Clair, Carol; Cook, Mary; Davis, Angela; Hall, Steve C. (Legal); Hansen, Leslie; Hodge, Jeffrey T.; Keohane, Peter; Koehler, Anne C.; Leite, Francisco Pinto; Nemec, Gerald; Nettelton, Marcus; Portz, David; Taylor, Mark E (Legal); Yoder, Christian; Bryan Murtagh (E-mail); Sanjeev Karkhanis (E-mail); Fitzgerald, Genia; Jones, Tana; Heard, Marie
+Cc:	Presto, Kevin M.; Calger, Christopher F.; Belden, Tim; Kitchen, Louise; Forster, David; Haedicke, Mark E.
+Subject:	Power Documents (Final)
+
+
+Attached are final forms of certain Power Trading documents:
+
+1.  Master Agreement EEI (full blown), with all credit terms left blank, for negotiation with counterparties (CP);
+
+2.  EEI Collateral Annex, including paragraph 10, for use with the Master Agreement EEI;
+
+3.  GTC EEI, Online with credit terms (unilateral right to call for collateral at any time for any reason), for use as the default GTCs Online when dealing with CPs with whom there will be a credit requirement (but could also be used for trades entered into orally assuming we secure the CP consent to the form of agreement, including cover page, prior to entering into trade);
+
+4.  GTC EEI, Online without  credit terms, for use as the default GTCs Online when dealing with CPs with whom there will not be a credit requirement (but could also be used for trades entered into orally assuming we secure the CP consent to the form of agreement, including cover page, prior to entering into trade).
+
+While these documents have been discussed generally with UBS, UBS has not yet had an opportunity to review the actual final version.
+
+100 copies of the first two documents (which will be combined as one for distribution) will be delivered by Genia to Dave shortly.
+
+Please call with any questions/comments.
+
+ << File: UBS EEI Cover Sheet With Collateral Annex Version 1 2-4-02 FINAL.doc >>  << File: NETCO EEI Collateral Annex Version 3 FINAL 2-4.doc >>  << File: UBS-GTC(ONLINE CREDIT)2-4-02 FINAL.doc >>  << File: UBS-GTC(ONLINE WITHOUT CREDIT)2-4-02 FINAL.doc >> 
+
+
+Elizabeth Sager
+713-853-6349
+
+ -----Original Message-----
+From: 	St. Clair, Carol  
+Sent:	Sunday, February 03, 2002 2:57 PM
+To:	Cook, Mary; Davis, Angela; Hall, Steve C. (Legal); Hansen, Leslie; Hodge, Jeffrey T.; Keohane, Peter; Koehler, Anne C.; Leite, Francisco Pinto; Nemec, Gerald; Nettelton, Marcus; Portz, David; Sager, Elizabeth; Taylor, Mark E (Legal); Yoder, Christian; Bryan Murtagh (E-mail); Jeffrey Stewart (E-mail); Jennifer Gabrielson (E-mail); John Magovern (E-mail); Sanjeev Karkhanis (E-mail)
+Cc:	Haedicke, Mark E.; Kitchen, Louise; Fitzgerald, Genia; 'llmagovern@aol.com'
+Subject:	Power Collateral Support Annex
+Importance:	High
+
+Enclosed are clean and mark revised (hopefully close to final) drafts of the EEI Collateral Annex and Cover Sheet.  Most of the changes were made to add Securities as Eligible Collateral.  This has not yet been done on the Cover Sheet since it is in a special format that I couldn't figure out.  It will be done tomorrow.  Please call or e-mail me with any remaining comments as we need to finalize this as early as possible tomorrow.  Thanks.
+
+ << File: NETCO EEI Collateral Annex Cover Sheet Version 2.doc >>  << File: NETCO EEI COLLATERAL ANNEX COVER SHEET RED.DOC >>  << File: NETCO EEI Collateral Annex Version 2.doc >>  << File: NETCO EEI COLLATERAL ANNEX RED.DOC >> 
+
+Genia:
+I left the cover sheet in your chair with the changes that need to be made.  Can you please make those changes?  Thanks.
+
+Carol St. Clair
+EB 4539
+713-853-3989 (phone)
+713-646-3393 (fax)
+281-382-1943 (cell phone)
+8774545506 (pager)
+281-890-8862 (home fax)
+carol.st.clair@enron.com
+
+

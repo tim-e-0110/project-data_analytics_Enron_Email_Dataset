@@ -1,0 +1,381 @@
+FORENSIC DOSSIER (INTERSECTION) FOR: sally.beck@enron.com
+PERIOD: 2001-10-01 to 2001-11-30
+CRITERIA: Sent during 'dead zone' AND contains risk keywords.
+
+================================================================================
+EVIDENCE ID (Message-ID): <16262726.1075845074072.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-03-31 01:14:00+00:00
+From: sally.beck@enron.com
+To: patti.thompson@enron.com
+Subject: <<Concur Expense Document>> - Robert M Hall
+--------------------------------------------------------------------------------
+
+Big ticket item on here is the group dinner in Dallas for the ASE.  I can view the entry and can click on attendees - but only see a list of 10 or 12 attendees.  There were 30 or so, plus Greg Piper and Lisa Petruska.  I am missing a second page of attendees, or were only a few listed?  If I am not missing a page, please ask Heather to include the complete list of attendees (all who were at the ASE plus Greg and Lisa).  A $4,000 meal for 10 attendees looks funny.  There were many more in attendance.  The cost of the meal makes more sense with a complete list of attendees.  Thanks.  
+---------------------- Forwarded by Sally Beck/HOU/ECT on 03/30/2001 02:11 PM ---------------------------
+
+
+eserver@enron.com on 03/30/2001 12:39:02 PM
+To:	"sally.beck@enron.com" <sally.beck@enron.com>
+cc:	 
+Subject:	<<Concur Expense Document>> - Robert M Hall
+
+
+The following expense report is ready for approval:
+
+Employee Name: Robert Hall
+Status last changed by:  Automated Administrator
+Expense Report Name: Robert M Hall
+Report Total: $5,648.12
+Amount Due Employee: $5,648.12
+
+
+To approve this expense report, click on the following link for Concur Expense.
+http://xms.enron.com
+
+
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <29698733.1075845074000.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-03-31 03:50:00+00:00
+From: sally.beck@enron.com
+To: greg.piper@enron.com
+Subject: Telephone Outage Enron Houston
+--------------------------------------------------------------------------------
+
+FYI - People tend to forget that we have some parts of the business that run 24 hours a day.  We often get notices like the one sent on March 29 below without much lead time and without regard to potential business impact.  Bob Superty has done a good job in scrambling to provide business solutions for us in gas scheduling.  This is a good team that knows how to react quickly.  --Sally 
+---------------------- Forwarded by Sally Beck/HOU/ECT on 03/30/2001 04:42 PM ---------------------------
+
+
+Robert Superty
+03/30/2001 02:52 PM
+To:	Bob M Hall/NA/Enron@Enron, Sally Beck/HOU/ECT@ECT
+cc:	 
+Subject:	Telephone Outage Enron Houston
+
+Sally, Bob - FYI 
+
+I was able to get 5 telephone numbers set up on a temporary switch so if our counterparties call into the Enron building during the outage (Friday 10:00 PM until Saturday 6 AM) they will get the voicemail of the 5 key schedulers that we selected. The voicemail gives the caller contact info. (page & home #'s). In addition if they hit zero it will be forwarded to our off-hours dispatching service. The dispatching service has current contact information for every pipe we do business on.  The schedulers were also instructed to call out to their key counterparties and make sure they have page, home and cell #'s.
+
+If I had my way all of our schedulers telephone numbers would have been put on this temporary switch but five was the best we could do. Considering the time period I think we have minimal exposure however you never know when a pipeline of market emergency could occur. 
+
+Let me know if you have any questions, tks - Bob
+---------------------- Forwarded by Robert Superty/HOU/ECT on 03/30/2001 02:33 PM ---------------------------
+   
+	Enron North America Corp.  From:  Robert Knight @ ENRON                           03/29/2001 02:14 PM	
+		
+
+
+Sent by:	Enron Announcements@ENRON
+To:	All Enron Worldwide
+cc:	 
+Subject:	Telephone Outage Enron Houston
+
+
+Enron AVAYA (formally Lucent Technologies) PBX & VoiceMail Outage for Enron Center South Conversion
+
+Systems: 			
+Enron Downtown Houston AVAYA Telephone & VoiceMail Systems 
+
+Affected Users:			
+All Enron Houston Downtown Telephone and VoiceMail Users
+
+System Outage Duration: PHASE I	
+3AC/2AC March 30, 2001 7:00PM - March 31, 2001, 12:00AM
+Enron Building, 500/600 Jefferson and Pennzoil March 30, 2001, 10:00PM - March 31, 2001, 6:00AM
+
+System Outage Duration: PHASE II	
+Enron Building, 500/600 Jefferson and Pennzoil April 6, 2001, 10:00PM - April 7, 2001, 4:00AM
+
+Summary:
+
+PHASE I  March 30, 2001
+
+All Enron telephone systems, including voicemail, will be totally out of service beginning Friday evening, March 30th.  The outage for 3 Allen Center and 2 Allen Center will begin at 7:00 PM.  The outage for the Enron Building, 500 Jefferson, 600 Jefferson and Pennzoil will begin at 10:00 PM on Friday evening. The systems will be out of service until approximately 6:00 AM, Saturday morning, March 31st.  There will be emergency service available for all key groups previously identified, including security.  Also, there will red security phones provided on each floor near the stairwells, for emergency use.  If you have an emergency during the outage, please contact security at 713-853-2580.  
+
+PHASE II  April 6, 2001
+
+Enron Building, 500 Jefferson, 600 Jefferson and Pennzoil Enron telephone systems, including ALL voicemail users, will be totally out of service beginning Friday evening, April 6th.  The outage will begin at 10:00 PM on Friday evening. The systems will be out of service until approximately 4:00 AM, Saturday morning, April 7th.  
+
+
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <6863595.1075845073883.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-04-03 03:45:00+00:00
+From: sally.beck@enron.com
+To: gary.hickerson@enron.com
+Subject: Trading position
+--------------------------------------------------------------------------------
+
+Resume attached per my voice mail to you.  This guy is currently at Compaq, but wants to do something else.  Any interest?  As I said in my voice mail, I will be glad to call my friend Dave Schempf to get more info on this guy if you would like.  --Sally 
+---------------------- Forwarded by Sally Beck/HOU/ECT on 04/02/2001 05:43 PM ---------------------------
+
+
+"Moses, Mathew" <Mathew.Moses@COMPAQ.com> on 04/02/2001 02:01:51 AM
+To:	Sally.beck@enron.com
+cc:	 
+Subject:	Trading position
+
+
+Dear Sally,
+
+Thank you for agreeing to review my resume and qualifications for a position
+at Enron.  Your company has a fine reputation for innovation and growth.
+I will call you Tuesday afternoon concerning any questions we both may have
+and to arrange an interview if we deem it is appropriate at that time.
+I appreciate you consideration and look forward to meeting you.
+
+Sincerely,
+Matt Moses
+(936) 273-3732 Home
+(281) 518-3036 Work
+
+
+
+ <<Sally_Beck Cover Letter.doc>>  <<MMoses_trader.doc>>
+
+ - Sally_Beck Cover Letter.doc 
+ - MMoses_trader.doc 
+
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <18811014.1075845073860.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-04-03 03:48:00+00:00
+From: sally.beck@enron.com
+To: moses@enron.com, mathew.moses@compaq.com
+Subject: Re: Trading position
+--------------------------------------------------------------------------------
+
+Thanks for your note and resume.  I have sent a copy to our Managing Director of Global Financial Trading.  He is in our London office this week, with a pretty demanding schedule, so it may be early next week before I hear back from him with regard to his interest.  I look forward to talking with you tomorrow.  Best time to reach me would be around 2:00 pm.  --Sally 
+
+
+
+
+"Moses, Mathew" <Mathew.Moses@COMPAQ.com> on 04/02/2001 02:01:51 AM
+To:	Sally.beck@enron.com
+cc:	 
+Subject:	Trading position
+
+
+Dear Sally,
+
+Thank you for agreeing to review my resume and qualifications for a position
+at Enron.  Your company has a fine reputation for innovation and growth.
+I will call you Tuesday afternoon concerning any questions we both may have
+and to arrange an interview if we deem it is appropriate at that time.
+I appreciate you consideration and look forward to meeting you.
+
+Sincerely,
+Matt Moses
+(936) 273-3732 Home
+(281) 518-3036 Work
+
+
+
+ <<Sally_Beck Cover Letter.doc>>  <<MMoses_trader.doc>>
+
+ - Sally_Beck Cover Letter.doc 
+ - MMoses_trader.doc 
+
+
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <11065793.1075845072681.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-04-07 01:33:00+00:00
+From: sally.beck@enron.com
+To: patti.thompson@enron.com
+Subject: Re: "Best Dressed" Luncheon at Niemans - Apr.12
+--------------------------------------------------------------------------------
+
+I was really looking for the list of attendees to see we wanted to share rides to Neiman's.  Can you get that list form Vanessa?  Thanks. 
+---------------------- Forwarded by Sally Beck/HOU/ECT on 04/06/2001 03:32 PM ---------------------------
+From:	Vanessa Bob@ENRON on 04/06/2001 07:39 AM
+To:	Sally Beck/HOU/ECT@ECT
+cc:	Kathy McMahon/NA/Enron@Enron 
+Subject:	Re: "Best Dressed" Luncheon at Niemans - Apr.12   
+
+Enron has purchased a table to the 2001 Houston Chronicle Best Dressed Luncheon & Neiman Marcus Fashion Show benefiting the March of Dimes.  The luncheon will be held on Wednesday, April 11 at the Westin Galleria.  The reception begins at 11:30 a.m., and the actual luncheon starts promptly at 12:00 noon.  
+
+
+
+
+	Kathy McMahon 04/05/2001 05:02 PM 	   To: Vanessa Bob/Corp/Enron@ENRON  cc: Sally Beck/HOU/ECT@ECT  Subject: "Best Dressed" Luncheon at Niemans - Apr.12	
+
+
+
+Vanessa, would you please resend Sally the memo regarding the luncheon?  It looks like I've deleted my copy.
+
+Thank you!
+
+Kathy
+
+
+
+
+
+
+<Embedded StdOleLink>
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <14367863.1075862304445.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-28 22:28:29+00:00
+From: sally.beck@enron.com
+To: christina.valdez@enron.com
+Subject: FW: New Cell Phone number
+--------------------------------------------------------------------------------
+
+Do we have this new one? 
+
+ -----Original Message-----
+From: 	Villanueva, Chantelle  
+Sent:	Monday, October  15, 2001 1:36 PM
+To:	Beck, Sally; Shankman, Jeffrey A.; Mcconnell, Mike; Causey, Annette; Bruce, Michelle; Glover, Sheila; Hall, D. Todd; Thomas, Sheri; Horn, Cindy; Myers, Thomas; Lawyer, Larry; Sweeney, Kevin; Funkhouser, Shanna; Hill, Dave (HR); 'john.t.vickers@us.andersen.com'
+Cc:	Valdez, Christina; Burns, Jennifer; Phillips, Cathy; Westbrook, Sharron; Foust, Sue; Templeton, Kelly; Ramos, Salisha; Sutcliffe, Michelle; Stokes, Cindy; Armstrong, Kristy; Craig, Braedi
+Subject:	New Cell Phone number
+
+Brent's cell phone number has changed to  832-755-8734.  
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <18386804.1075858753876.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-28 22:37:26+00:00
+From: sally.beck@enron.com
+To: laura.johnson@enron.com
+Subject: RE: Amanda on All A's Honor Roll
+--------------------------------------------------------------------------------
+
+Only a week and a half to reply to you - I apologize!   The artickale was great.  In fact, today I have resent the notice with the hot link to my direct reports.  Since we all get so many e-mails, I wanted to be certain that this wasn't overlooked.  I pointed out to them that ENN had broadened its cover to include operations as well as technology, and that they should look for upcoming articles.  
+
+Sounds as if your son had a strong start at Kleb as well.  This second six weeks is proving to be a little more challenging for Amanda - or her effort may have gotten diverted!  
+
+I am copying my assistant on this note so that we can get lunch on the calendar.  --Sally  
+
+ -----Original Message-----
+From: 	Johnson, Laura  
+Sent:	Friday, October  19, 2001 9:07 AM
+To:	Beck, Sally
+Subject:	Amanda on All A's Honor Roll
+
+I was at Kleb yesterday and found Amanda on the All A's Honor Roll; the apple didn't fall far from the tree!  I found my son on the All A's and one or two B's honor roll.  Did you see your article in Enron Net Works News (ENN)?  Have you received any comments?  Tom Gros read it and enjoyed it.  The webtrends reports indicate strong readership on the piece!  Look for the continuing series on Energy Operations in upcoming issues at http://enn.enron.com
+
+Laura Johnson
+713-853-9361
+cell:  713-962-3732
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <14449659.1075858753811.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-28 22:53:08+00:00
+From: sally.beck@enron.com
+To: christina.valdez@enron.com
+Subject: E-Mail Clean UP
+--------------------------------------------------------------------------------
+
+I forwarded to you most of the ibuyit stuff still in my e-mail.  Please check all to see if they have been approved.  From this point forward, I don't want to automatically approve anything without my seeing it.  Please scan the rest of my e-mails to see if there is an ibuyit request that I failed to forward to you for you to check.  Please be sure that anything that has already been approved is deleted.  Thanks. 
+
+Please go through my e-mails and print everything from Melissa Becker, put it in a folder (all should relate to follow up on the Accounting offsite in Galveston) for me.  I need to review that stuff and figure out when the next follow up meeting is going to be with either Rick and/or Melissa.  They have asked me to chair one of the follow up issues.  Some of the e-mails from Melissa relate to volunteers for my team.  I think there is also one saved voice mail with a volunteer's name.  Can you create a list (with contact numbers) of all volunteers from e-mails and voice mails to date?  Thanks.  Then please delete all e-mails from Melissa.  
+
+Also, please go through my e-mails and print everything that relates to Center for Houston's Future.  I need to review these.  Most is from Marilyn Schoppe, but a few are from others, but reference CHF.  Then delete all of these e-mails.  
+
+E-mails from Lexi Elliott regarding recruiting.  Please print all so that I can review them.  Please delete all e-mails after printing.  Thanks.  
+
+This effort plus my clean up today should help shrink the e-mails that remain.  Thanks.  --Sally 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <4918130.1075858753789.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-10-28 22:54:25+00:00
+From: sally.beck@enron.com
+To: christina.valdez@enron.com
+Subject: e-mail clean up - 2
+--------------------------------------------------------------------------------
+
+Please do the same thing with e-mails from MIke Jordan.  thanks. 
+
+ -----Original Message-----
+From: 	Beck, Sally  
+Sent:	Sunday, October  28, 2001 4:53 PM
+To:	Valdez, Christina
+Subject:	E-Mail Clean UP
+
+I forwarded to you most of the ibuyit stuff still in my e-mail.  Please check all to see if they have been approved.  From this point forward, I don't want to automatically approve anything without my seeing it.  Please scan the rest of my e-mails to see if there is an ibuyit request that I failed to forward to you for you to check.  Please be sure that anything that has already been approved is deleted.  Thanks. 
+
+Please go through my e-mails and print everything from Melissa Becker, put it in a folder (all should relate to follow up on the Accounting offsite in Galveston) for me.  I need to review that stuff and figure out when the next follow up meeting is going to be with either Rick and/or Melissa.  They have asked me to chair one of the follow up issues.  Some of the e-mails from Melissa relate to volunteers for my team.  I think there is also one saved voice mail with a volunteer's name.  Can you create a list (with contact numbers) of all volunteers from e-mails and voice mails to date?  Thanks.  Then please delete all e-mails from Melissa.  
+
+Also, please go through my e-mails and print everything that relates to Center for Houston's Future.  I need to review these.  Most is from Marilyn Schoppe, but a few are from others, but reference CHF.  Then delete all of these e-mails.  
+
+E-mails from Lexi Elliott regarding recruiting.  Please print all so that I can review them.  Please delete all e-mails after printing.  Thanks.  
+
+This effort plus my clean up today should help shrink the e-mails that remain.  Thanks.  --Sally 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <17013738.1075862305547.JavaMail.evans@thyme>
+================================================================================
+Date: 2001-11-11 19:32:49+00:00
+From: sally.beck@enron.com
+To: greg.piper@enron.com
+Subject: Details on Meeting
+--------------------------------------------------------------------------------
+
+Talked with Jenny - she will take care of beaming the simulcast onto the big screen for us tomorrow morning.  
+
+I looked at the conference room, and it looks the way we left it yesterday - dirty.  Talked with the security guys and they called to check on cleaning crew. Should be here this afternoon at 2:00, so the room should be clean and neat by tomorrow morning.  
+
+Have sent e-mail notice of meeting - included Tony Mends and Allan Sommer since I don't know Paskin's whereabouts and I do know that Mark Pickering won't be here.  Otherwise, Tony and Allan will be out of the loop.  Anyone else who will roll under Paskin that I should include?  
+
+I will also leave voice mail messages on everyone's Enron extension and make calls to home numbers so that everyone will know about the 8:00 am meeting.  
+
+Brent is here - will meet with McConnell at 3:00 on EGM (commercial) cost savings effort.  Not sure that McConnell will meet with Greg W.   Brent will update me after the 3:00 meeting. 
+
+--Sally 
+
+ -----Original Message-----
+From: 	Beck, Sally  
+Sent:	Sunday, November  11, 2001 1:27 PM
+To:	Piper, Greg; Pickering, Mark; Apollo, Beth; Busby, Todd; Chun, Inja; Dayao, Anthony; Gros, Thomas D.; Hall, Bob M; Hotte, Steve; Johnson, Jeff; Paskin, John; Pearce, Barry; Perlman, Beth; Price, Brent A.; Richter, Brad; Roper, Kerry; Rub, Jenny; Stocker, Steve; Sweeney, Kevin; Webb, Jay; Sommer, Allan; Mends, Anthony
+Cc:	Spiller, Tina; Valdez, Christina; Costello, Lisa; Stone, Sandy; Carrizales, Blanca; McDonald, Dawn; Hritz, Alice; Lapsley, Carol; Flores-Cuellar, Brenda; Choate, Heather; Villarreal, Lillian; Browder, Mary Lou; Thistleton, Tara; Godden, Kirsten; Perkins, Kim; Westbrook, Cherylene R.; Villanueva, Chantelle; Cannon, Lydia; Latson, Diane; Estrada, Mercedes E.; James, Giselle; Craig, Braedi; Weatherstone, Mary
+Subject:	8:00 AM Meeting - Monday, November 12
+
+Please join Greg Piper and me in Conference Room 4075 on the 4th floor of ECS at 8:00 am on Monday, November 12.  To find this conference room, go through the security badge check point to your right as you arrive on the 4th floor, then make a left at the first hallway and the conference room will be on your right.  
+
+Dynegy and Enron will simulcast a merger conference call live via the Internet at 8:00 am Central Time.  We will access this webcast via the two large screens in the conference room.  We can watch this together as a group, and at the conclusion of the simulcast we will have a brief meeting to discuss Q&A regarding the merger and our action steps for the day as the management team of Enron Net Works.  
+
+I look forward to seeing you on Monday morning.  
+
+--Sally 
+
+
+================================================================================
+EVIDENCE ID (Message-ID): <32465913.1075840369137.JavaMail.evans@thyme>
+================================================================================
+Date: 2002-01-05 01:19:48+00:00
+From: sally.beck@enron.com
+To: jeffrey.mcmahon@enron.com
+Subject: Services Company
+--------------------------------------------------------------------------------
+
+Beth Perlman has fleshed out an idea for maximizing value for creditors of the Enron Estate that I believe has a lot of merit.  As you may know, one of our business goals within Enron Net Works in 2001 was to commercialize mid and back office services.  With the money and talent that has been poured into Enron's trading operations systems and processes, we believed that there could be market demand for these services.  Ironically enough, we had secured our first services customer and were to begin providing these services on December 1.  Understandably, the customer became concerned during November and the deal was shelved.  Our experience was that there was much interest in mid and back office services (coupling our systems and our people), but that the major drawback in the marketplace was that it was indeed Enron that was offering these services.  The market place didn't want us to "win again" as Enron.  
+
+Obviously, the world has changed.  While effort is currently focused on the formation of Netco and how to realize value from remaining contracts within EGM, EIM, EA, EES, etc., I think that we would short-change the Estate if we did not bring the idea of a services company to at least the proposal stage in order to evaluate its potential value for the Estate.  The idea would be to form this services company with a consulting firm, which could provide some capital, additional resource pool and a ready sales channel.  With the potential of spin-off companies from Enron and with former Enron employees taking jobs with other firms, many doors would be opened for this "independent" services company to provide services.  Servicing the Enron Estate could be the first engagement for this services company.  Depending upon the structure of the deal, benefits to the Enron Estate could be reduced costs for systems and services, perhaps a cash inflow from the purchase of the CommodityLogic tools,  the possibility of some revenue stream from other services engagements, etc.  Another important aspect of this idea is that for the systems and operations professionals, this would create a true career opportunity - a service bureau offering through an established consulting firm - making it much more likely that these people could be retained.  
+
+Beth and I met with a consulting firm today to explore the concept.  There is definite interest, so we discussed the idea with Greg Piper today.  We asked him for clarification around the Netco agreement regarding systems, and I believe that he has copied you on a note to Anne Koehler regarding this.  Our ability to process transactions is one of Enron's assets, and our hope would  be that we are not limiting the full realization of value around that asset in the way that the Netco agreement has been drafted.  
+
+The next step would be to have the consulting firm conduct a short due diligence process so that a proposal could be presented for the Estate's consideration.  Beth and I would like to move forward with the proposal stage.  It would be helpful to know your view on the process which would have to be followed to consider the proposal.  If we as Enron felt that there is merit to the proposal, would there simply be an approval process with the Creditor's Committee and the Court?  Would there have to be some sort of open bidding process on the proposal?  To set expectations within the consulting firm, it would be good to be able to give them a feel for the process.  
+
+Your thoughts on this idea in general would be welcomed as well.  --Sally
+
+
