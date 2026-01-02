@@ -231,4 +231,4 @@ While this project operates as a "Proof of Concept", a production-grade deployme
 
 **Project Author:** Tim Ermantraut
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-ermantraut-0b3a08149)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-er)
