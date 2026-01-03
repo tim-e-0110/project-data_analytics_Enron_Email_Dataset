@@ -104,6 +104,46 @@ Instead of a time-consuming manual review, **Large Language Models (LLMs)** were
 
 ---
 
+## 📄 The Core Deliverable: AI-Generated Forensic Reports
+
+The main benefit of this pipeline is the conversion of raw data into usable information. In this process, **input (dossiers)** are used to generate **output (reports)**.
+
+1.  **The Dossiers (Input):** Python scripts aggregate filtered emails into curated text files ("Dossiers") based on specific risk or behavioral clusters.
+2.  **The Reports (Output):** Specialized LLM agents analyze these dossiers to generate structured "Forensic Reports" containing profiles, risk assessments, and evidence citations.
+
+Below is the complete index of the generated artifacts, linking the source date to its final analysis.
+
+### 1. Behavioral Profiling (The "Shadow Actors")
+*Analyzed by the **Individual Profiling Agent** to understand the mechanics of fraud executed during off-hours.*
+
+*   **📂 Input:** [Source Dossiers (Shadow)](./notebooks/analysis_results/shadow_dossiers_for_llm/)
+*   **📄 Output: Forensic Reports**
+    *   [Jeff Dasovich (Govt. Affairs)](./llm_reports/shadow_report_jeff_dasovich.md)
+    *   [John Lavorato (Trading Executive)](./llm_reports/shadow_report_john_lavorato.md)
+    *   [Kay Mann (Legal)](./llm_reports/shadow_report_kay_mann.md)
+    *   [Richard Sanders (Litigation Counsel)](./llm_reports/shadow_report_richard_sanders.md)
+    *   [Steven Kean (Executive Strategy)](./llm_reports/shadow_report_steven_kean.md)
+
+
+### 2. Crisis Response Profiling (The "Panic Actors")
+*Analyzed by the **Individual Profiling Agent** to capture the psychological reaction and cover-up attempts.*
+
+*   **📂 Input:** [Source Dossiers (Crisis)](./notebooks/analysis_results/crisis_dossiers_for_llm/)
+*   **📄 Output: Forensic Reports**
+    *   [James D. Steffes (Regulatory Affairs)](./llm_reports/crisis_report_d__steffes.md)
+    *   [Jeff Dasovich (Lobbyist)](./llm_reports/crisis_report_jeff_dasovich.md)
+    *   [Marie Heard (Legal Specialist)](./llm_reports/crisis_report_marie_heard.md)
+    *   [Matthew Lenhart (Trader)](./llm_reports/crisis_report_matthew_lenhart.md)
+    *   [Sara Shackleton (Legal Counsel)](./llm_reports/crisis_report_sara_shackleton.md)
+
+### 3. Systemic Synthesis (The "Critical Intersection")
+*Analyzed by the **Consolidated Synthesis Agent** to identify cross-dossier patterns and a unified narrative.*
+
+*   **📂 Input:** [Source Dossiers (Intersection)](./notebooks/analysis_results/intersection_dossiers_for_llm/)
+*   **📄 Output:** [**Consolidated Forensic Report**](./llm_reports/intersection_consolidated_report.md)
+
+---
+
 ## 🔎 Key Findings: Anatomy of a Collapse
 
 The analysis isolated three phases of systemic fraud, its cover-up, and the corrupting influence that enabled it.
