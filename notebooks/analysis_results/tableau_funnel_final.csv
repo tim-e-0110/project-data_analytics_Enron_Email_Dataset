@@ -1,0 +1,8 @@
+L1_Level,L2_Group,L3_Detail,Volume,Color
+1. Non-relevant,Peripheral,Peripheral (outside/mixed),124097,Blue light
+2. Relevant (Inner circle),Inner circle,CRITICAL (risk & shadow),1559,Red
+2. Relevant (Inner circle),Inner circle,Inner circle (routine),94991,Blue medium
+2. Relevant (Inner circle),Inner circle,Inner circle (shadow),5023,Purple
+2. Relevant (Inner circle),Inner circle,Inner circle (risk),23270,Orange
+1. Non-relevant,Filtered data,Noise & spam,23643,Grey
+1. Non-relevant,Filtered data,Technical duplicates,244818,Grey
