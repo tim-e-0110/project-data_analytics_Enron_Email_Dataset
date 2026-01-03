@@ -214,4 +214,18 @@ data/enron_mails.csv
 pgdata/
 postgres_data/
 .env
-!notebooks/analysis_results/intersection_dossiers_for_llm/LLM_top_10_quotes.csv
+# --- EXCEPTIONS FOR RESULT CSVs ---
+# Allow specific result CSV files to be tracked while ignoring the large raw data CSV.
+
+# LLM-generated quote lists
+!llm_reports/intersection_top_10_quotes.csv
+!llm_reports/crisis_top_5_quotes_*.csv
+!llm_reports/shadow_top_5_quotes_*.csv
+
+# Python-generated data exports
+!notebooks/analysis_results/dashboard_exclusive_timelines.csv
+!notebooks/analysis_results/heatmap_multi_view.csv
+!notebooks/analysis_results/panic_authors_peak.csv
+!notebooks/analysis_results/panic_timeline_combined.csv
+!notebooks/analysis_results/shadow_timeline_combined.csv
+!notebooks/analysis_results/tableau_funnel_final.csv
